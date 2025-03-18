@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beauty Website</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Lato:ital@1&family=Lavishly+
+Yours&family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Noto+Sans:ital,
+wght@0,100..900;1,100..900&family=Rock+Salt&family=Shadows+Into+Light&display=swap" 
+rel="stylesheet">
+
+
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background: linear-gradient(90deg, #fff7ad , #ffa9f9 );
+        }
+        .container {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px;
+        }
+        .logo {
+            font-size: 35px;
+font-family: "Lavishly Yours", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+
+.nav a {
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            margin-left: 20px;
+            padding-right: 20px; /* Adds space between the links and screen edge */
+        }
+        .hero {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 50px;
+            position: relative;
+        }
+        .hero-text {
+            max-width: 50%;
+        }
+        .hero-text h1 {
+            font-size: 60px;
+
+font-family: "Lato", sans-serif;
+  font-weight: 700;
+  font-style: normal;}
+
+
+
+
+
+        
+        .hero-text p {
+            font-size: 16px;
+        }
+        .buttons {
+            margin-top: 20px;
+        }
+        .buttons button {
+            padding: 10px 20px;
+            margin: 10px;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        
+        .btn-skincare {
+            background-color: black;
+            color: white;
+        }
+         .btn-skincare:hover {background-color: rgb(89, 37, 37);
+  transition-delay: 0s;}
+  
+        .btn-makeup {
+            border: 2px solid black;
+            background: black;
+            color: white;
+        }
+          .btn-makeup:hover {background-color: rgb(89, 37, 37);
+  transition-delay: 0s;}
+        .image-container {
+            position: relative;
+            width: 50%;
+        }
+        .main-image {
+            width: 100%;
+            max-width: 400px;
+            border-radius: 50%;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            display: block;
+            margin: auto;
+        }
+        a{
+          text-decoration: none;
+          color: antiquewhite;
+          
+        }
+        a:hover{
+            text-decoration:underline;
+        }
+        .overlay-image {
+            position: absolute;
+            top: 10%;
+            left: 3%; /* Moved slightly to the left */
+            width: 40%;
+            border-radius: 50%;
+            aspect-ratio: 1 / 1;
+            object-fit: cover;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        @media (max-width: 768px) {
+            .hero {
+                flex-direction: column;
+                text-align: center;
+            }
+            .hero-text, .image-container {
+                max-width: 100%;
+            }
+            .overlay-image {
+                width: 50%;
+                left: 8%; /* Adjusted slightly */
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="logo"> 💌 Enhancing Beauty</div>
+        <div class="nav">
+            <a href="/">Home</a>
+            <a href="/aboutus">About Us</a>
+        </div>
+    </div>
+    <div class="hero">
+        <div class="image-container">
+            <img src="https://i.pinimg.com/1200x/3f/46/3c/3f463c5afe3cd5fbf311889880df3ed5.jpg" alt="Skin tone matching" class="main-image">
+            <img src="https://i.pinimg.com/1200x/49/61/74/496174982035f61b3d539c1c9da7c70f.jpg" alt="Skincare product" class="overlay-image">
+        </div>
+        <div class="hero-text">
+            <h1>Find Beauty Within Yourself</h1>
+            <p>True beauty shines from within, but the right makeup and skincare can enhance it perfectly. We recommend the best products tailored to your skin type, texture, and needs—because your beauty deserves the perfect match!</p>
+            <div class="buttons">
+                <button class="btn-skincare"><a href="/skincare">SKINCARE</a></button>
+                <button class="btn-makeup"><a href="/makeup">MAKEUP</a></button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

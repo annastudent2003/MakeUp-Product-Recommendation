@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skincare Store</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Lavishly+Yours&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+        body {
+            background: linear-gradient(90deg, #fff7ad, #ffa9f9);
+            text-align: center;
+            padding: 20px;
+        }
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 50px;
+            background: rgba(255, 255, 255, 0.5);
+            backdrop-filter: blur(5px);
+        }
+        .logo {
+            font-size: 30px;
+            font-family: "Lavishly Yours", cursive;
+            font-style: italic;
+            color: black;
+        }
+        nav {
+            display: flex;
+            gap: 50px;
+        }
+        nav a {
+            text-decoration: none;
+            color: black;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        p a{
+            text-decoration: none;
+            color:black;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        .products {
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            margin-top: 100px;
+            flex-wrap: wrap;
+        }
+        .product {
+            text-align: center;
+        }
+        .product img {
+            width: 300px;
+            height: 300px;
+            border-radius: 50%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+<body>
+    <header class="header">
+        <div class="logo">💌 Enhancing Beauty</div>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/aboutus">About Us</a>
+        </nav>
+    </header>
+    <div class="products">
+        <div class="product">
+            <img src="<%=product.imageLink1%>" alt="<%=product.prodName1%>">
+            <p><a href="<%=product.route %>"><%=product.prodName1%></a></p>
+        </div>
+        <div class="product">
+            <img src="<%=product.imageLink2%>" alt="<%=product.prodName2%>">
+            <p><a href="<%=product.route %>"><%=product.prodName2%></a></p>
+        </div>
+        <div class="product">
+            <img src="<%=product.imageLink3%>" alt="<%=product.prodName3%>">
+            <p><a href="<%=product.route %>"><%=product.prodName3%></a></p>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
