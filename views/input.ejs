@@ -70,14 +70,23 @@
             gap: 20px;
         }
 
-        .box {
-    width: 250px;
-    height: 80px; 
-    padding: 15px;
-    font-size: 16px;
-    border: 2px solid black;
-    background: transparent;
-}
+        select {
+            width: 250px;
+            padding: 15px;
+            font-size: 16px;
+            border: 2px solid black;
+            background: transparent;
+            cursor: pointer;
+        }
+
+        .btn-skincare {
+            background-color: black;
+            color: white;
+            width: 100px;
+            height: 50px;
+        }
+         .btn-skincare:hover {background-color: rgb(89, 37, 37);
+            transition-delay: 0s;}
 
         a:hover{
             text-decoration: underline;
@@ -119,18 +128,29 @@
     </header>
 
     <div class="container">
-        <div class="left">
-            <% if (recommendations.length > 0) { %>
-                <% recommendations.forEach((item, index) => { %>
-                    <div class="box">
-                        <strong>Product:</strong> <%= item.product %><br>
-                        <strong>Price:</strong> $<%= item.price %>
-                    </div>
-                <% }) %>
-            <% } else { %>
-                <div class="box">No recommendations found.</div>
-            <% } %>
-        </div>
+        <form class="left" action="/recommend" method="post">
+            <input type="hidden" value="<%=product_type%>" name="product_type">
+            <select id="skinType" name="skinType">
+                <option value="">Select Skin Type</option>
+                <option value="Oily">Oily</option>
+                <option value="Dry">Dry</option>
+                <option value="Normal">Normal</option>
+            </select>
+            <select id="sensitivity" name="sensitivity">
+                <option value="">Select Sensitivity</option>
+                <option value="Yes">Sensitive</option>
+                <option value="No">Not Sensitive</option>
+            </select>
+            <select id="price" name="price">
+                <option>Select Price Range</option>
+                <option value="0-20">Below 20</option>
+                <option value="20-40">Between 21-40</option>
+                <option value="40-60">Between 41-60</option>
+                <option value="60-80"> Between 61-80</option>
+                <option value="80-100" >Between Above 80</option>
+            </select>
+            <button class="btn-skincare">Go</button>
+        </form>
         <div class="right">
             <img src="https://i.pinimg.com/1200x/63/5b/be/635bbef049c34c492a6b8c0bea0ca3ab.jpg" alt="Skincare Image">
         </div>

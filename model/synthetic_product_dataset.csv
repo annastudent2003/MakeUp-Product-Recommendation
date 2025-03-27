@@ -1,0 +1,1001 @@
+brand,category,product_type,skin_type,sensitivity,rating,price,product
+Estee Lauder,Makeup,Concealer,Dry,Yes,3.7,69.57,Estee Lauder Concealer Edition E3
+Clinique,Makeup,Concealer,Normal,Yes,1.3,94.86,Clinique Concealer Edition E3
+Dior,Skincare,Concealer,Normal,No,4.8,33.1,Dior Concealer Edition B8
+Sephora,Skincare,Concealer,Normal,Yes,4.4,5.11,Sephora Concealer Edition C2
+Estee Lauder,Makeup,Sunscreen,Dry,No,4.2,30.84,Estee Lauder Sunscreen SPF100 Edition C2
+NARS,Skincare,Foundation,Oily,Yes,4.3,25.7,NARS Foundation Edition E6
+MAC,Skincare,Face Powder,Oily,Yes,4.7,67.87,MAC Face Powder Edition D2
+Estee Lauder,Skincare,Body Lotion,Oily,No,3.2,65.2,Estee Lauder Body Lotion Edition E7
+Dior,Skincare,Face Powder,Dry,Yes,1.8,61.38,Dior Face Powder Edition B8
+Sephora,Skincare,Face Powder,Oily,Yes,3.5,6.54,Sephora Face Powder Edition D7
+Clinique,Makeup,Face Cream,Dry,No,4,74.23,Clinique Face Cream Edition D9
+Dior,Skincare,Foundation,Oily,Yes,4,35.74,Dior Foundation Edition E5
+Dior,Makeup,Face Cream,Oily,No,3.1,68.18,Dior Face Cream Edition C4
+MAC,Skincare,Foundation,Normal,Yes,1.3,57.87,MAC Foundation Edition E9
+Revlon,Makeup,Foundation,Dry,Yes,2.5,37.56,Revlon Foundation Edition E2
+Sephora,Skincare,Concealer,Normal,Yes,4.7,17.78,Sephora Concealer Edition B8
+L'Oreal,Makeup,Sunscreen,Normal,Yes,3.3,13.97,L'Oreal Sunscreen SPF70 Edition D3
+Dior,Skincare,Concealer,Normal,Yes,3.2,83.99,Dior Concealer Edition E6
+Revlon,Makeup,Sunscreen,Dry,Yes,2.1,92.25,Revlon Sunscreen SPF50 Edition A4
+L'Oreal,Skincare,Face Cream,Dry,Yes,2.5,66.73,L'Oreal Face Cream Edition D5
+Sephora,Makeup,Sunscreen,Oily,Yes,4.6,14.83,Sephora Sunscreen SPF100 Edition E5
+Maybelline,Skincare,Face Cream,Normal,No,3.7,43.19,Maybelline Face Cream Edition E1
+NARS,Makeup,Face Powder,Oily,No,4.1,74.25,NARS Face Powder Edition C7
+Revlon,Makeup,Face Powder,Normal,Yes,2.8,79.08,Revlon Face Powder Edition E7
+Lancome,Skincare,Sunscreen,Dry,Yes,3.5,16.23,Lancome Sunscreen SPF100 Edition C4
+Maybelline,Skincare,Sunscreen,Dry,No,2,5,Maybelline Sunscreen SPF70 Edition B9
+NARS,Makeup,Face Cream,Dry,Yes,3.8,72.65,NARS Face Cream Edition D5
+MAC,Skincare,Concealer,Normal,Yes,2.7,38.88,MAC Concealer Edition A9
+Estee Lauder,Makeup,Face Cream,Dry,No,2.8,29.18,Estee Lauder Face Cream Edition D5
+Clinique,Makeup,Concealer,Normal,Yes,3.6,6.23,Clinique Concealer Edition D6
+Lancome,Makeup,Face Powder,Oily,Yes,4.7,56.33,Lancome Face Powder Edition D8
+MAC,Skincare,Foundation,Normal,No,1.3,85.86,MAC Foundation Edition C5
+Sephora,Makeup,Sunscreen,Oily,Yes,4.3,95.98,Sephora Sunscreen SPF100 Edition B2
+MAC,Makeup,Concealer,Normal,Yes,2.2,58.75,MAC Concealer Edition B6
+Estee Lauder,Skincare,Face Cream,Oily,No,2.8,53.87,Estee Lauder Face Cream Edition D5
+Sephora,Skincare,Face Powder,Dry,Yes,1.1,13.08,Sephora Face Powder Edition A7
+Lancome,Skincare,Concealer,Oily,No,2.2,57.14,Lancome Concealer Edition A8
+Estee Lauder,Skincare,Face Cream,Dry,Yes,3,41.1,Estee Lauder Face Cream Edition E3
+L'Oreal,Makeup,Sunscreen,Dry,Yes,1.2,62.68,L'Oreal Sunscreen SPF100 Edition B9
+Clinique,Makeup,Sunscreen,Oily,No,3,41.93,Clinique Sunscreen SPF50 Edition E3
+Lancome,Makeup,Body Lotion,Normal,No,4.7,27.83,Lancome Body Lotion Edition B6
+L'Oreal,Makeup,Foundation,Normal,Yes,1.4,14.02,L'Oreal Foundation Edition D2
+NARS,Skincare,Body Lotion,Normal,No,4.1,34.92,NARS Body Lotion Edition D9
+Lancome,Makeup,Face Powder,Normal,No,2.6,14.18,Lancome Face Powder Edition D2
+NARS,Makeup,Concealer,Normal,Yes,3.6,21.81,NARS Concealer Edition D5
+Sephora,Skincare,Face Powder,Dry,Yes,2,98.8,Sephora Face Powder Edition C9
+L'Oreal,Makeup,Face Cream,Normal,Yes,1.6,47.19,L'Oreal Face Cream Edition E5
+Clinique,Makeup,Sunscreen,Dry,No,1.6,55.53,Clinique Sunscreen SPF15 Edition B3
+Estee Lauder,Makeup,Body Lotion,Dry,No,1.3,87.99,Estee Lauder Body Lotion Edition B9
+Dior,Makeup,Body Lotion,Dry,No,1.7,99.58,Dior Body Lotion Edition D9
+MAC,Makeup,Body Lotion,Oily,No,3.7,60.36,MAC Body Lotion Edition E2
+Maybelline,Makeup,Face Powder,Oily,Yes,4.5,82.19,Maybelline Face Powder Edition D4
+Clinique,Skincare,Sunscreen,Dry,No,4.3,36.06,Clinique Sunscreen SPF30 Edition E2
+L'Oreal,Skincare,Concealer,Oily,Yes,3.7,34.05,L'Oreal Concealer Edition A7
+Dior,Makeup,Face Cream,Normal,No,1.4,43.26,Dior Face Cream Edition B1
+Clinique,Makeup,Concealer,Normal,Yes,2.2,68.89,Clinique Concealer Edition C8
+L'Oreal,Skincare,Face Powder,Dry,Yes,2.2,69.81,L'Oreal Face Powder Edition C6
+Revlon,Makeup,Face Cream,Normal,Yes,2,34.95,Revlon Face Cream Edition B1
+Revlon,Makeup,Body Lotion,Dry,No,3.1,17.65,Revlon Body Lotion Edition D1
+NARS,Makeup,Foundation,Dry,Yes,3.1,65.08,NARS Foundation Edition C9
+Clinique,Skincare,Face Powder,Normal,Yes,2.4,17.19,Clinique Face Powder Edition D7
+Revlon,Makeup,Face Powder,Oily,No,2.4,59.96,Revlon Face Powder Edition B1
+L'Oreal,Skincare,Sunscreen,Normal,Yes,4.3,70.88,L'Oreal Sunscreen SPF15 Edition C2
+NARS,Makeup,Concealer,Normal,No,4.2,71.56,NARS Concealer Edition D9
+L'Oreal,Skincare,Face Powder,Dry,No,2.2,76.58,L'Oreal Face Powder Edition E4
+NARS,Skincare,Face Powder,Dry,Yes,4.7,87.92,NARS Face Powder Edition D4
+Clinique,Makeup,Body Lotion,Dry,Yes,4.8,52.5,Clinique Body Lotion Edition C6
+Dior,Skincare,Body Lotion,Dry,No,2.3,74.37,Dior Body Lotion Edition A6
+Estee Lauder,Makeup,Face Cream,Oily,Yes,2.4,63.82,Estee Lauder Face Cream Edition B9
+Lancome,Skincare,Foundation,Oily,No,3,22.73,Lancome Foundation Edition B7
+Dior,Makeup,Sunscreen,Oily,No,4.8,7.44,Dior Sunscreen SPF70 Edition D1
+Sephora,Makeup,Foundation,Dry,No,4.5,32.03,Sephora Foundation Edition E8
+L'Oreal,Skincare,Face Cream,Dry,Yes,1.4,47.09,L'Oreal Face Cream Edition D7
+Sephora,Makeup,Body Lotion,Dry,No,2.6,63.63,Sephora Body Lotion Edition E4
+Dior,Makeup,Concealer,Oily,Yes,3.2,85.75,Dior Concealer Edition D5
+NARS,Skincare,Body Lotion,Dry,Yes,3,23.64,NARS Body Lotion Edition E1
+Lancome,Makeup,Sunscreen,Normal,Yes,1.8,16.93,Lancome Sunscreen SPF100 Edition B5
+Lancome,Makeup,Body Lotion,Normal,Yes,4.4,96.53,Lancome Body Lotion Edition C2
+Maybelline,Skincare,Sunscreen,Dry,No,3.7,15.26,Maybelline Sunscreen SPF70 Edition D4
+Lancome,Skincare,Sunscreen,Normal,Yes,4.4,50.46,Lancome Sunscreen SPF100 Edition D3
+Estee Lauder,Makeup,Sunscreen,Normal,No,4.4,60.63,Estee Lauder Sunscreen SPF15 Edition D7
+Lancome,Makeup,Face Cream,Oily,No,4,56.43,Lancome Face Cream Edition D5
+Dior,Skincare,Sunscreen,Dry,Yes,2.8,13.17,Dior Sunscreen SPF30 Edition D2
+Maybelline,Skincare,Sunscreen,Dry,No,3.4,10.42,Maybelline Sunscreen SPF30 Edition E7
+Dior,Makeup,Concealer,Oily,No,1.6,15.02,Dior Concealer Edition B9
+Dior,Skincare,Foundation,Normal,Yes,3.7,60.63,Dior Foundation Edition E7
+MAC,Makeup,Face Powder,Normal,No,1.7,56.71,MAC Face Powder Edition E6
+Maybelline,Makeup,Foundation,Dry,No,3.8,27.21,Maybelline Foundation Edition C3
+Dior,Makeup,Sunscreen,Normal,No,1.9,65.59,Dior Sunscreen SPF15 Edition E8
+MAC,Makeup,Concealer,Oily,No,1.5,82.91,MAC Concealer Edition D1
+MAC,Makeup,Body Lotion,Oily,Yes,1.7,8.95,MAC Body Lotion Edition E5
+Maybelline,Skincare,Concealer,Dry,No,1,52.32,Maybelline Concealer Edition A9
+Sephora,Skincare,Sunscreen,Oily,No,3.9,70.48,Sephora Sunscreen SPF30 Edition A5
+NARS,Skincare,Concealer,Oily,No,3.9,28.97,NARS Concealer Edition A4
+Estee Lauder,Skincare,Concealer,Dry,No,3.1,34.24,Estee Lauder Concealer Edition E8
+NARS,Makeup,Sunscreen,Oily,Yes,1.6,63.3,NARS Sunscreen SPF70 Edition C3
+Lancome,Makeup,Face Cream,Oily,No,1.3,90.3,Lancome Face Cream Edition B1
+Estee Lauder,Makeup,Concealer,Oily,Yes,1.1,81.94,Estee Lauder Concealer Edition E8
+Lancome,Makeup,Face Powder,Normal,No,1.7,60.4,Lancome Face Powder Edition A1
+Dior,Skincare,Face Powder,Dry,Yes,4.6,74.37,Dior Face Powder Edition D6
+L'Oreal,Makeup,Concealer,Dry,Yes,2,39.66,L'Oreal Concealer Edition A1
+Maybelline,Makeup,Face Cream,Dry,Yes,2.4,65.89,Maybelline Face Cream Edition B5
+Estee Lauder,Skincare,Body Lotion,Normal,Yes,1.4,49.29,Estee Lauder Body Lotion Edition D8
+Estee Lauder,Skincare,Sunscreen,Normal,Yes,1.9,23.04,Estee Lauder Sunscreen SPF15 Edition D4
+Dior,Skincare,Face Powder,Dry,No,3.1,71.67,Dior Face Powder Edition D5
+Sephora,Skincare,Body Lotion,Normal,No,3.4,57.86,Sephora Body Lotion Edition E2
+MAC,Makeup,Concealer,Dry,No,2,39.07,MAC Concealer Edition A3
+Dior,Makeup,Body Lotion,Normal,Yes,1.2,91.58,Dior Body Lotion Edition A1
+Revlon,Skincare,Foundation,Oily,No,2.6,6.99,Revlon Foundation Edition E3
+MAC,Makeup,Face Powder,Oily,Yes,1.9,35,MAC Face Powder Edition B5
+Maybelline,Makeup,Concealer,Dry,Yes,1.9,10.4,Maybelline Concealer Edition C9
+MAC,Makeup,Sunscreen,Normal,No,4.8,77.82,MAC Sunscreen SPF100 Edition C9
+Sephora,Skincare,Face Cream,Normal,No,3.5,71.7,Sephora Face Cream Edition E7
+MAC,Makeup,Concealer,Oily,Yes,3.2,36.48,MAC Concealer Edition D4
+Maybelline,Skincare,Sunscreen,Oily,Yes,2.7,69.19,Maybelline Sunscreen SPF100 Edition D2
+Sephora,Makeup,Face Cream,Normal,No,2.7,42.61,Sephora Face Cream Edition C5
+NARS,Makeup,Face Cream,Normal,No,3.2,76.84,NARS Face Cream Edition E1
+Estee Lauder,Makeup,Concealer,Normal,No,3.8,48.15,Estee Lauder Concealer Edition A1
+Estee Lauder,Skincare,Body Lotion,Normal,No,3.8,44.17,Estee Lauder Body Lotion Edition E2
+Lancome,Makeup,Body Lotion,Normal,Yes,1.7,93.8,Lancome Body Lotion Edition C3
+NARS,Skincare,Face Cream,Normal,No,3,28.83,NARS Face Cream Edition B4
+NARS,Skincare,Body Lotion,Dry,No,2.6,16.44,NARS Body Lotion Edition A1
+MAC,Skincare,Foundation,Normal,No,4.5,60.53,MAC Foundation Edition C2
+Estee Lauder,Makeup,Face Cream,Oily,Yes,3.5,97.09,Estee Lauder Face Cream Edition D3
+Maybelline,Makeup,Face Cream,Dry,Yes,3.1,40.89,Maybelline Face Cream Edition A5
+Clinique,Makeup,Sunscreen,Normal,Yes,1.5,10.89,Clinique Sunscreen SPF50 Edition B5
+Clinique,Makeup,Body Lotion,Oily,Yes,3.4,37.23,Clinique Body Lotion Edition A7
+Sephora,Skincare,Face Cream,Dry,No,1.5,53.06,Sephora Face Cream Edition D8
+Estee Lauder,Skincare,Foundation,Oily,Yes,2.3,20.38,Estee Lauder Foundation Edition E4
+Estee Lauder,Skincare,Sunscreen,Normal,No,1.6,67.52,Estee Lauder Sunscreen SPF70 Edition A5
+Clinique,Makeup,Concealer,Normal,No,3.8,99.79,Clinique Concealer Edition D8
+Estee Lauder,Skincare,Face Cream,Normal,No,1.8,47.92,Estee Lauder Face Cream Edition E9
+MAC,Makeup,Foundation,Normal,No,2.6,38.7,MAC Foundation Edition D3
+Revlon,Skincare,Face Powder,Dry,Yes,4.6,43.07,Revlon Face Powder Edition E2
+L'Oreal,Makeup,Foundation,Dry,Yes,1.8,15.94,L'Oreal Foundation Edition B9
+NARS,Makeup,Foundation,Oily,Yes,3,88.91,NARS Foundation Edition C2
+Lancome,Skincare,Sunscreen,Normal,No,2.7,44.41,Lancome Sunscreen SPF50 Edition A8
+Sephora,Skincare,Concealer,Oily,No,1.1,41.79,Sephora Concealer Edition C7
+Revlon,Skincare,Face Powder,Dry,No,4.2,67.67,Revlon Face Powder Edition A1
+Clinique,Skincare,Body Lotion,Normal,No,1.3,46.99,Clinique Body Lotion Edition D9
+NARS,Makeup,Body Lotion,Normal,No,2.9,66.58,NARS Body Lotion Edition D8
+Estee Lauder,Skincare,Foundation,Dry,Yes,3.2,10.84,Estee Lauder Foundation Edition D3
+Lancome,Skincare,Sunscreen,Dry,No,3.5,82.3,Lancome Sunscreen SPF100 Edition C3
+Estee Lauder,Skincare,Sunscreen,Dry,Yes,3.8,94.35,Estee Lauder Sunscreen SPF15 Edition D4
+Maybelline,Makeup,Body Lotion,Dry,No,2,66.63,Maybelline Body Lotion Edition E1
+Maybelline,Makeup,Face Powder,Dry,No,1,95.68,Maybelline Face Powder Edition E1
+Lancome,Skincare,Concealer,Normal,Yes,3.9,19.39,Lancome Concealer Edition B7
+Lancome,Makeup,Face Powder,Dry,Yes,3.1,50.35,Lancome Face Powder Edition D6
+Clinique,Skincare,Face Cream,Normal,No,4.3,62.17,Clinique Face Cream Edition B2
+Lancome,Makeup,Face Cream,Normal,No,4.3,60.26,Lancome Face Cream Edition C7
+MAC,Makeup,Concealer,Dry,No,4.4,43.14,MAC Concealer Edition A2
+Estee Lauder,Makeup,Body Lotion,Dry,No,2.9,37.12,Estee Lauder Body Lotion Edition D8
+Revlon,Makeup,Concealer,Normal,Yes,2.3,17.05,Revlon Concealer Edition B7
+Dior,Skincare,Sunscreen,Dry,No,4.2,42.22,Dior Sunscreen SPF70 Edition D2
+Lancome,Skincare,Face Cream,Dry,Yes,2.8,20.45,Lancome Face Cream Edition C9
+Sephora,Skincare,Foundation,Dry,No,1.7,74.76,Sephora Foundation Edition C9
+Maybelline,Makeup,Foundation,Oily,Yes,4.4,24.84,Maybelline Foundation Edition C3
+MAC,Skincare,Body Lotion,Normal,Yes,4.5,10.56,MAC Body Lotion Edition B5
+NARS,Skincare,Sunscreen,Oily,No,2.9,57.47,NARS Sunscreen SPF70 Edition D4
+Dior,Skincare,Face Powder,Dry,Yes,1.3,61.55,Dior Face Powder Edition A2
+Revlon,Makeup,Sunscreen,Oily,No,2.6,87.83,Revlon Sunscreen SPF70 Edition C6
+Dior,Makeup,Foundation,Dry,Yes,4.2,59.81,Dior Foundation Edition E6
+Lancome,Makeup,Foundation,Oily,No,4.6,37.82,Lancome Foundation Edition D8
+Clinique,Skincare,Face Cream,Dry,Yes,1.8,81.29,Clinique Face Cream Edition A1
+Maybelline,Skincare,Sunscreen,Oily,No,1.3,56.33,Maybelline Sunscreen SPF70 Edition A5
+Maybelline,Skincare,Sunscreen,Oily,No,4.5,12.53,Maybelline Sunscreen SPF70 Edition B6
+NARS,Makeup,Foundation,Oily,Yes,2.6,58.76,NARS Foundation Edition D7
+Clinique,Makeup,Face Powder,Normal,Yes,3.2,91.26,Clinique Face Powder Edition B2
+Estee Lauder,Skincare,Body Lotion,Oily,Yes,4.9,42.65,Estee Lauder Body Lotion Edition B1
+L'Oreal,Makeup,Body Lotion,Normal,Yes,1.3,33.15,L'Oreal Body Lotion Edition D7
+MAC,Makeup,Sunscreen,Dry,No,3.6,18.63,MAC Sunscreen SPF70 Edition A3
+Maybelline,Makeup,Body Lotion,Oily,Yes,1.3,19.39,Maybelline Body Lotion Edition C7
+Sephora,Makeup,Foundation,Dry,No,2.5,46.11,Sephora Foundation Edition B6
+Maybelline,Skincare,Foundation,Dry,Yes,4.2,61.59,Maybelline Foundation Edition B6
+Dior,Makeup,Sunscreen,Oily,No,2.7,12.66,Dior Sunscreen SPF30 Edition E3
+Maybelline,Makeup,Sunscreen,Normal,No,5,94.26,Maybelline Sunscreen SPF30 Edition D6
+Maybelline,Makeup,Face Cream,Oily,No,3.2,76.74,Maybelline Face Cream Edition E2
+L'Oreal,Makeup,Sunscreen,Dry,No,2.3,60.73,L'Oreal Sunscreen SPF30 Edition C3
+L'Oreal,Skincare,Face Powder,Dry,Yes,1.9,83.7,L'Oreal Face Powder Edition C3
+Revlon,Skincare,Body Lotion,Oily,Yes,2.4,12.62,Revlon Body Lotion Edition E1
+Estee Lauder,Makeup,Sunscreen,Normal,No,2.5,50.3,Estee Lauder Sunscreen SPF30 Edition E8
+Sephora,Makeup,Concealer,Normal,Yes,1.3,64.86,Sephora Concealer Edition D7
+Maybelline,Makeup,Face Cream,Dry,Yes,2.5,83.72,Maybelline Face Cream Edition A4
+Maybelline,Makeup,Concealer,Dry,No,2.9,79.43,Maybelline Concealer Edition C5
+MAC,Makeup,Foundation,Normal,Yes,3.9,31.32,MAC Foundation Edition B9
+L'Oreal,Makeup,Body Lotion,Oily,Yes,3.6,94.38,L'Oreal Body Lotion Edition C3
+Sephora,Skincare,Sunscreen,Dry,Yes,3.8,16.81,Sephora Sunscreen SPF70 Edition E8
+NARS,Makeup,Concealer,Normal,No,1,88.14,NARS Concealer Edition C3
+Revlon,Skincare,Body Lotion,Dry,Yes,1.9,97.24,Revlon Body Lotion Edition C4
+Estee Lauder,Skincare,Foundation,Oily,No,3.6,21.83,Estee Lauder Foundation Edition A5
+Clinique,Makeup,Face Powder,Normal,Yes,2.9,73.6,Clinique Face Powder Edition C8
+Estee Lauder,Skincare,Face Cream,Dry,Yes,1,8.83,Estee Lauder Face Cream Edition D9
+Dior,Skincare,Body Lotion,Oily,Yes,4.2,43.52,Dior Body Lotion Edition E4
+Maybelline,Skincare,Body Lotion,Dry,No,4.1,54.05,Maybelline Body Lotion Edition E6
+Revlon,Skincare,Face Powder,Oily,No,3.2,60.16,Revlon Face Powder Edition A4
+Dior,Skincare,Body Lotion,Oily,Yes,1.3,93.91,Dior Body Lotion Edition A3
+Sephora,Skincare,Foundation,Normal,No,4.1,68.86,Sephora Foundation Edition A9
+Clinique,Makeup,Foundation,Oily,Yes,3.3,50.72,Clinique Foundation Edition B9
+L'Oreal,Skincare,Face Powder,Dry,No,4.1,81.92,L'Oreal Face Powder Edition E4
+Revlon,Skincare,Face Cream,Oily,No,4,95.3,Revlon Face Cream Edition B4
+Revlon,Skincare,Sunscreen,Oily,Yes,4.2,7.1,Revlon Sunscreen SPF50 Edition D6
+Maybelline,Makeup,Concealer,Normal,Yes,3.1,98.34,Maybelline Concealer Edition C3
+Lancome,Skincare,Sunscreen,Oily,Yes,1.6,13.18,Lancome Sunscreen SPF100 Edition D8
+Revlon,Makeup,Body Lotion,Oily,Yes,3.7,82.37,Revlon Body Lotion Edition D7
+MAC,Skincare,Concealer,Dry,No,3.5,31.63,MAC Concealer Edition E9
+Clinique,Makeup,Face Powder,Normal,No,4,17.56,Clinique Face Powder Edition A5
+Clinique,Makeup,Face Powder,Normal,No,1.7,46.79,Clinique Face Powder Edition E8
+MAC,Skincare,Face Cream,Normal,Yes,1.8,66.18,MAC Face Cream Edition B1
+NARS,Skincare,Concealer,Oily,Yes,4.6,41.19,NARS Concealer Edition A8
+MAC,Makeup,Foundation,Normal,No,4,10.18,MAC Foundation Edition E3
+MAC,Skincare,Concealer,Oily,Yes,4.6,61.95,MAC Concealer Edition C8
+Clinique,Makeup,Body Lotion,Oily,No,4,90.73,Clinique Body Lotion Edition E7
+Estee Lauder,Makeup,Foundation,Dry,No,3.4,41.41,Estee Lauder Foundation Edition E8
+Clinique,Makeup,Face Powder,Dry,No,3.6,25.55,Clinique Face Powder Edition B4
+Lancome,Makeup,Concealer,Dry,No,4.6,47.04,Lancome Concealer Edition B3
+Maybelline,Makeup,Sunscreen,Dry,No,3.3,9.59,Maybelline Sunscreen SPF100 Edition C7
+Dior,Skincare,Face Cream,Dry,Yes,3.5,82.95,Dior Face Cream Edition B6
+Estee Lauder,Makeup,Sunscreen,Oily,Yes,1.6,83.5,Estee Lauder Sunscreen SPF15 Edition A4
+L'Oreal,Makeup,Face Cream,Oily,Yes,2.9,60.86,L'Oreal Face Cream Edition B2
+Dior,Skincare,Body Lotion,Normal,No,3.9,38.54,Dior Body Lotion Edition A7
+Maybelline,Makeup,Sunscreen,Oily,No,2.1,80.98,Maybelline Sunscreen SPF100 Edition A6
+Lancome,Skincare,Concealer,Oily,No,1.8,57.7,Lancome Concealer Edition C6
+Lancome,Skincare,Concealer,Dry,No,2.3,83.46,Lancome Concealer Edition B6
+L'Oreal,Skincare,Sunscreen,Oily,Yes,2,64.99,L'Oreal Sunscreen SPF70 Edition D9
+Estee Lauder,Makeup,Concealer,Dry,Yes,1.9,79.52,Estee Lauder Concealer Edition A8
+NARS,Makeup,Body Lotion,Normal,No,2.7,61.86,NARS Body Lotion Edition E1
+MAC,Makeup,Foundation,Normal,No,4.6,44.34,MAC Foundation Edition D1
+Estee Lauder,Skincare,Body Lotion,Oily,No,3,96,Estee Lauder Body Lotion Edition B5
+NARS,Makeup,Face Cream,Normal,Yes,1.8,56.41,NARS Face Cream Edition B6
+Lancome,Skincare,Body Lotion,Oily,Yes,1.3,62.48,Lancome Body Lotion Edition E5
+Clinique,Makeup,Face Cream,Normal,Yes,3.8,25.95,Clinique Face Cream Edition C2
+Maybelline,Skincare,Concealer,Dry,No,2.5,64.44,Maybelline Concealer Edition A6
+L'Oreal,Makeup,Foundation,Dry,No,4.3,59.3,L'Oreal Foundation Edition C2
+Maybelline,Makeup,Concealer,Dry,Yes,3.6,22.56,Maybelline Concealer Edition D2
+Sephora,Makeup,Face Powder,Dry,No,4.2,10.66,Sephora Face Powder Edition E9
+Sephora,Skincare,Concealer,Oily,Yes,2.1,62.41,Sephora Concealer Edition C5
+Estee Lauder,Skincare,Face Cream,Normal,No,3.8,77.55,Estee Lauder Face Cream Edition D5
+Lancome,Makeup,Concealer,Oily,Yes,2.1,54.72,Lancome Concealer Edition E4
+Lancome,Makeup,Concealer,Dry,No,4.8,26.54,Lancome Concealer Edition E7
+MAC,Skincare,Foundation,Oily,Yes,3.5,68.32,MAC Foundation Edition B5
+MAC,Skincare,Concealer,Normal,Yes,2.3,12.61,MAC Concealer Edition C6
+MAC,Skincare,Foundation,Oily,Yes,2.1,46.97,MAC Foundation Edition E7
+Clinique,Makeup,Sunscreen,Normal,Yes,1.8,20.52,Clinique Sunscreen SPF100 Edition D2
+Dior,Skincare,Face Powder,Oily,Yes,3.8,22.52,Dior Face Powder Edition B3
+Revlon,Makeup,Foundation,Normal,Yes,1.9,24.22,Revlon Foundation Edition A6
+Dior,Skincare,Face Cream,Normal,No,3.4,41.74,Dior Face Cream Edition E3
+Maybelline,Makeup,Sunscreen,Dry,No,2.1,9.86,Maybelline Sunscreen SPF100 Edition D3
+Dior,Skincare,Foundation,Normal,No,3.6,42.79,Dior Foundation Edition D1
+Clinique,Skincare,Foundation,Dry,Yes,4.3,53.61,Clinique Foundation Edition B1
+Maybelline,Skincare,Face Powder,Dry,Yes,4.1,50.91,Maybelline Face Powder Edition E7
+Dior,Skincare,Face Cream,Dry,No,4,41.36,Dior Face Cream Edition B4
+Clinique,Skincare,Body Lotion,Oily,Yes,1.8,84.72,Clinique Body Lotion Edition C2
+Revlon,Makeup,Body Lotion,Oily,Yes,1.4,18.81,Revlon Body Lotion Edition C1
+Dior,Skincare,Foundation,Oily,Yes,3.8,53.04,Dior Foundation Edition C3
+Clinique,Skincare,Concealer,Oily,Yes,2.5,10.89,Clinique Concealer Edition D7
+MAC,Skincare,Face Cream,Normal,Yes,2.7,11.76,MAC Face Cream Edition A9
+Lancome,Makeup,Sunscreen,Normal,No,1.1,59.52,Lancome Sunscreen SPF70 Edition C6
+MAC,Skincare,Concealer,Oily,No,2,58.77,MAC Concealer Edition C3
+Lancome,Makeup,Concealer,Normal,No,1.1,88.41,Lancome Concealer Edition B2
+L'Oreal,Skincare,Face Cream,Normal,No,4.5,58,L'Oreal Face Cream Edition D5
+L'Oreal,Skincare,Foundation,Dry,No,2,96.18,L'Oreal Foundation Edition A2
+L'Oreal,Makeup,Foundation,Dry,Yes,3.2,9.63,L'Oreal Foundation Edition B6
+Revlon,Skincare,Foundation,Dry,Yes,1.2,14.31,Revlon Foundation Edition E2
+MAC,Makeup,Foundation,Dry,Yes,3.7,9.19,MAC Foundation Edition D4
+Lancome,Makeup,Body Lotion,Normal,Yes,2.3,22.6,Lancome Body Lotion Edition E1
+Clinique,Skincare,Foundation,Oily,No,4.6,56.42,Clinique Foundation Edition A3
+Maybelline,Makeup,Body Lotion,Normal,No,4.6,66.33,Maybelline Body Lotion Edition B5
+Clinique,Skincare,Body Lotion,Normal,No,2.3,9.33,Clinique Body Lotion Edition B5
+Maybelline,Skincare,Foundation,Normal,Yes,4.6,94.87,Maybelline Foundation Edition E6
+Sephora,Makeup,Face Powder,Dry,No,5,85.01,Sephora Face Powder Edition D8
+Clinique,Makeup,Sunscreen,Dry,Yes,4.3,33.18,Clinique Sunscreen SPF100 Edition E1
+Dior,Makeup,Concealer,Dry,No,4.4,12.33,Dior Concealer Edition C4
+Dior,Makeup,Body Lotion,Oily,No,2,21.14,Dior Body Lotion Edition E8
+Estee Lauder,Skincare,Face Cream,Normal,Yes,3.3,17.06,Estee Lauder Face Cream Edition C5
+MAC,Skincare,Face Cream,Oily,Yes,1.3,16.71,MAC Face Cream Edition B6
+Maybelline,Makeup,Sunscreen,Dry,No,1.4,54.26,Maybelline Sunscreen SPF30 Edition C6
+Maybelline,Skincare,Face Cream,Oily,No,5,28.36,Maybelline Face Cream Edition B6
+MAC,Skincare,Face Powder,Normal,Yes,2.3,39.02,MAC Face Powder Edition A8
+Revlon,Skincare,Face Cream,Normal,No,4,99,Revlon Face Cream Edition A5
+Estee Lauder,Skincare,Concealer,Dry,No,4.2,70.01,Estee Lauder Concealer Edition E8
+Revlon,Makeup,Concealer,Dry,Yes,4.4,95.15,Revlon Concealer Edition C6
+Revlon,Makeup,Body Lotion,Oily,No,5,18.54,Revlon Body Lotion Edition E8
+Revlon,Skincare,Foundation,Dry,Yes,2,41.3,Revlon Foundation Edition D8
+MAC,Makeup,Face Powder,Dry,No,1.2,57.7,MAC Face Powder Edition B2
+Revlon,Makeup,Body Lotion,Normal,Yes,2.6,12.29,Revlon Body Lotion Edition A9
+Dior,Makeup,Face Powder,Dry,No,1.5,5.4,Dior Face Powder Edition B6
+L'Oreal,Skincare,Foundation,Dry,Yes,1.1,68.69,L'Oreal Foundation Edition D4
+Sephora,Skincare,Face Cream,Normal,No,2.4,65.97,Sephora Face Cream Edition E6
+Maybelline,Skincare,Face Cream,Normal,Yes,4.1,44.02,Maybelline Face Cream Edition E6
+Maybelline,Makeup,Foundation,Oily,No,3.3,51.52,Maybelline Foundation Edition A8
+Sephora,Skincare,Body Lotion,Dry,No,2.3,44.47,Sephora Body Lotion Edition E6
+MAC,Skincare,Foundation,Normal,No,3.6,7.28,MAC Foundation Edition D6
+Clinique,Makeup,Sunscreen,Oily,No,1.9,36.86,Clinique Sunscreen SPF15 Edition E1
+MAC,Skincare,Concealer,Oily,No,1.1,21.82,MAC Concealer Edition A9
+Maybelline,Skincare,Body Lotion,Dry,No,4.1,14.35,Maybelline Body Lotion Edition C8
+Maybelline,Makeup,Face Powder,Dry,No,3.5,95.89,Maybelline Face Powder Edition E3
+Sephora,Makeup,Sunscreen,Oily,No,4,61.94,Sephora Sunscreen SPF100 Edition A8
+Revlon,Makeup,Body Lotion,Normal,No,1.2,74.22,Revlon Body Lotion Edition E7
+MAC,Skincare,Foundation,Oily,Yes,4.3,34.96,MAC Foundation Edition B4
+Lancome,Skincare,Foundation,Dry,Yes,3.5,42.35,Lancome Foundation Edition A2
+Sephora,Skincare,Foundation,Normal,No,3.3,27.51,Sephora Foundation Edition A9
+Dior,Makeup,Foundation,Normal,Yes,3.5,14.21,Dior Foundation Edition E1
+Maybelline,Makeup,Face Powder,Oily,No,4.5,22.01,Maybelline Face Powder Edition B4
+Sephora,Skincare,Sunscreen,Dry,No,3.3,80.76,Sephora Sunscreen SPF100 Edition A6
+MAC,Skincare,Face Cream,Oily,Yes,3.3,69.37,MAC Face Cream Edition C6
+Maybelline,Makeup,Concealer,Oily,No,5,56.96,Maybelline Concealer Edition E6
+Clinique,Makeup,Face Powder,Oily,No,4,50.13,Clinique Face Powder Edition E2
+Sephora,Makeup,Face Powder,Normal,Yes,2.8,92.63,Sephora Face Powder Edition B2
+Estee Lauder,Makeup,Face Cream,Normal,Yes,3.8,11.91,Estee Lauder Face Cream Edition B6
+Maybelline,Skincare,Face Cream,Dry,No,2.6,31.66,Maybelline Face Cream Edition E4
+MAC,Makeup,Concealer,Dry,Yes,1.9,38.24,MAC Concealer Edition D1
+L'Oreal,Skincare,Concealer,Oily,Yes,3.4,79.33,L'Oreal Concealer Edition A1
+Lancome,Skincare,Face Cream,Oily,No,4.7,99.29,Lancome Face Cream Edition C1
+NARS,Skincare,Foundation,Oily,Yes,4.7,27.86,NARS Foundation Edition E4
+Revlon,Makeup,Face Powder,Dry,Yes,2.4,88.06,Revlon Face Powder Edition E9
+NARS,Makeup,Body Lotion,Normal,No,3.1,83.91,NARS Body Lotion Edition C7
+MAC,Makeup,Concealer,Normal,Yes,1.8,26.34,MAC Concealer Edition C8
+Dior,Makeup,Concealer,Oily,Yes,5,42.94,Dior Concealer Edition D1
+Dior,Skincare,Face Cream,Oily,No,4.9,43.92,Dior Face Cream Edition B3
+L'Oreal,Makeup,Sunscreen,Oily,No,3.6,97.93,L'Oreal Sunscreen SPF50 Edition D4
+Revlon,Makeup,Body Lotion,Oily,No,4.2,22.18,Revlon Body Lotion Edition A3
+Estee Lauder,Skincare,Body Lotion,Dry,Yes,3.9,80.92,Estee Lauder Body Lotion Edition A2
+L'Oreal,Makeup,Concealer,Normal,No,3.4,36.75,L'Oreal Concealer Edition C1
+NARS,Skincare,Foundation,Oily,No,1.2,74.43,NARS Foundation Edition B3
+L'Oreal,Skincare,Sunscreen,Dry,Yes,2.8,44.9,L'Oreal Sunscreen SPF50 Edition D5
+NARS,Skincare,Body Lotion,Oily,No,3.7,59.94,NARS Body Lotion Edition E2
+Maybelline,Skincare,Concealer,Oily,No,3.7,84.1,Maybelline Concealer Edition B7
+Dior,Skincare,Body Lotion,Normal,No,2.5,81.4,Dior Body Lotion Edition A2
+Maybelline,Skincare,Sunscreen,Oily,No,4.8,87.31,Maybelline Sunscreen SPF50 Edition C7
+Lancome,Skincare,Sunscreen,Normal,Yes,1.7,10.66,Lancome Sunscreen SPF15 Edition D7
+Revlon,Skincare,Face Powder,Normal,No,3,70.74,Revlon Face Powder Edition B1
+Estee Lauder,Makeup,Face Cream,Normal,No,3.8,18.3,Estee Lauder Face Cream Edition E2
+NARS,Makeup,Face Cream,Dry,Yes,3.8,44.5,NARS Face Cream Edition A7
+Estee Lauder,Makeup,Concealer,Dry,No,3.6,57.12,Estee Lauder Concealer Edition D4
+NARS,Makeup,Sunscreen,Normal,Yes,2.1,43.26,NARS Sunscreen SPF70 Edition B5
+MAC,Skincare,Face Powder,Oily,Yes,1.6,54.36,MAC Face Powder Edition D1
+L'Oreal,Makeup,Face Powder,Normal,Yes,3.5,99.67,L'Oreal Face Powder Edition D8
+Lancome,Skincare,Body Lotion,Oily,No,3.4,17.85,Lancome Body Lotion Edition C6
+Dior,Makeup,Body Lotion,Normal,Yes,1.7,69.17,Dior Body Lotion Edition D9
+NARS,Makeup,Face Powder,Oily,Yes,3.8,42.62,NARS Face Powder Edition A3
+Estee Lauder,Makeup,Body Lotion,Dry,Yes,2.8,17.64,Estee Lauder Body Lotion Edition A5
+Lancome,Skincare,Sunscreen,Oily,No,3.7,20.08,Lancome Sunscreen SPF50 Edition C6
+Clinique,Makeup,Foundation,Normal,No,4.3,95.18,Clinique Foundation Edition E4
+Clinique,Skincare,Sunscreen,Dry,No,1.7,88.56,Clinique Sunscreen SPF70 Edition E5
+Maybelline,Skincare,Face Powder,Oily,No,1.1,91.17,Maybelline Face Powder Edition D4
+Dior,Makeup,Face Powder,Oily,No,4.1,99.2,Dior Face Powder Edition D4
+MAC,Makeup,Sunscreen,Oily,No,3.4,24.79,MAC Sunscreen SPF30 Edition E2
+Estee Lauder,Makeup,Body Lotion,Oily,No,3.8,38.77,Estee Lauder Body Lotion Edition A2
+L'Oreal,Skincare,Body Lotion,Oily,Yes,4.4,68.58,L'Oreal Body Lotion Edition B5
+L'Oreal,Makeup,Face Cream,Dry,Yes,4.2,50.96,L'Oreal Face Cream Edition D7
+Estee Lauder,Skincare,Face Powder,Dry,Yes,4.8,44.75,Estee Lauder Face Powder Edition E6
+Revlon,Skincare,Concealer,Dry,Yes,3.1,38.99,Revlon Concealer Edition B5
+MAC,Makeup,Face Cream,Dry,No,3,61.41,MAC Face Cream Edition A3
+Lancome,Makeup,Body Lotion,Normal,Yes,2.6,59.68,Lancome Body Lotion Edition A1
+NARS,Skincare,Sunscreen,Dry,Yes,1.6,20.34,NARS Sunscreen SPF70 Edition E2
+Revlon,Skincare,Body Lotion,Oily,Yes,3.3,49.82,Revlon Body Lotion Edition C1
+NARS,Skincare,Sunscreen,Oily,Yes,2.1,57.58,NARS Sunscreen SPF30 Edition C7
+NARS,Makeup,Face Cream,Dry,No,4.7,59.18,NARS Face Cream Edition C4
+Revlon,Skincare,Face Powder,Oily,No,3.3,24.96,Revlon Face Powder Edition B3
+Maybelline,Makeup,Body Lotion,Dry,No,3.4,75.52,Maybelline Body Lotion Edition A3
+Clinique,Skincare,Sunscreen,Oily,Yes,2.4,7.39,Clinique Sunscreen SPF30 Edition C5
+NARS,Skincare,Face Powder,Normal,No,1.2,38.71,NARS Face Powder Edition D7
+Revlon,Makeup,Concealer,Normal,Yes,1.1,79.12,Revlon Concealer Edition D3
+Revlon,Skincare,Sunscreen,Dry,No,2.7,58.57,Revlon Sunscreen SPF30 Edition E1
+Sephora,Makeup,Face Cream,Dry,No,1.3,29.81,Sephora Face Cream Edition B1
+Maybelline,Makeup,Concealer,Dry,No,3.4,71.02,Maybelline Concealer Edition E9
+Dior,Skincare,Concealer,Oily,No,4.5,58.9,Dior Concealer Edition A1
+Sephora,Makeup,Foundation,Dry,No,4.5,80.64,Sephora Foundation Edition D4
+Sephora,Makeup,Body Lotion,Normal,Yes,3.6,74.83,Sephora Body Lotion Edition B9
+Estee Lauder,Skincare,Sunscreen,Oily,No,1.8,62.96,Estee Lauder Sunscreen SPF15 Edition A2
+Clinique,Makeup,Concealer,Dry,Yes,4.5,51.38,Clinique Concealer Edition B4
+Revlon,Makeup,Foundation,Oily,Yes,4.5,17.65,Revlon Foundation Edition B2
+Clinique,Makeup,Face Cream,Oily,Yes,1.8,29.83,Clinique Face Cream Edition A1
+MAC,Skincare,Face Powder,Dry,Yes,3.9,44.81,MAC Face Powder Edition D7
+Estee Lauder,Makeup,Sunscreen,Oily,Yes,2.1,61.93,Estee Lauder Sunscreen SPF50 Edition C3
+Dior,Skincare,Concealer,Normal,No,4.2,53.8,Dior Concealer Edition B6
+Clinique,Skincare,Body Lotion,Normal,No,5,32.38,Clinique Body Lotion Edition E2
+L'Oreal,Makeup,Foundation,Oily,No,1.1,5.61,L'Oreal Foundation Edition B4
+NARS,Makeup,Concealer,Dry,No,4.6,52.14,NARS Concealer Edition B9
+MAC,Makeup,Body Lotion,Oily,Yes,3.5,32.13,MAC Body Lotion Edition A6
+Maybelline,Skincare,Concealer,Normal,No,4.9,74.79,Maybelline Concealer Edition E4
+Dior,Makeup,Sunscreen,Oily,No,2.9,7.27,Dior Sunscreen SPF100 Edition A4
+MAC,Makeup,Sunscreen,Oily,Yes,4.4,60.56,MAC Sunscreen SPF70 Edition D2
+NARS,Makeup,Sunscreen,Normal,Yes,1.2,94.44,NARS Sunscreen SPF100 Edition E6
+Estee Lauder,Makeup,Face Cream,Oily,No,2.3,21.57,Estee Lauder Face Cream Edition E9
+NARS,Makeup,Face Cream,Oily,No,1.3,49.81,NARS Face Cream Edition B1
+Sephora,Skincare,Foundation,Dry,Yes,4.9,13.69,Sephora Foundation Edition C2
+NARS,Skincare,Sunscreen,Dry,No,4.3,64.44,NARS Sunscreen SPF30 Edition D3
+Sephora,Makeup,Body Lotion,Normal,No,4.4,57.3,Sephora Body Lotion Edition A9
+Estee Lauder,Makeup,Concealer,Normal,No,4.8,43.7,Estee Lauder Concealer Edition B2
+Lancome,Makeup,Face Powder,Normal,No,1.3,54.53,Lancome Face Powder Edition C4
+Sephora,Makeup,Body Lotion,Dry,Yes,2.5,90.17,Sephora Body Lotion Edition A3
+Maybelline,Skincare,Face Cream,Normal,Yes,1.3,23.65,Maybelline Face Cream Edition E7
+NARS,Makeup,Face Cream,Normal,Yes,1.8,7.14,NARS Face Cream Edition D3
+NARS,Skincare,Body Lotion,Normal,No,1.9,86.86,NARS Body Lotion Edition A2
+Maybelline,Skincare,Face Cream,Dry,No,2.9,59.83,Maybelline Face Cream Edition E6
+L'Oreal,Makeup,Sunscreen,Oily,No,2.1,89.61,L'Oreal Sunscreen SPF30 Edition A2
+Revlon,Skincare,Foundation,Normal,No,1.4,61.71,Revlon Foundation Edition E5
+Lancome,Skincare,Concealer,Oily,No,1.7,81.97,Lancome Concealer Edition B8
+Dior,Skincare,Foundation,Normal,Yes,1.6,45.82,Dior Foundation Edition C9
+Sephora,Skincare,Concealer,Oily,No,4.9,76.24,Sephora Concealer Edition B5
+Maybelline,Makeup,Concealer,Dry,No,4,91.74,Maybelline Concealer Edition C3
+Estee Lauder,Makeup,Foundation,Dry,Yes,4.9,59.35,Estee Lauder Foundation Edition B9
+Sephora,Skincare,Body Lotion,Normal,No,2.8,22.17,Sephora Body Lotion Edition E6
+Revlon,Makeup,Concealer,Oily,Yes,2.1,30.54,Revlon Concealer Edition C1
+Estee Lauder,Makeup,Foundation,Dry,Yes,4.2,23.87,Estee Lauder Foundation Edition B1
+MAC,Makeup,Concealer,Normal,Yes,2.3,28.45,MAC Concealer Edition D2
+NARS,Makeup,Face Powder,Normal,Yes,2.2,34.11,NARS Face Powder Edition C7
+MAC,Makeup,Body Lotion,Dry,Yes,1.9,57.74,MAC Body Lotion Edition B2
+Sephora,Skincare,Sunscreen,Dry,No,1.5,60.86,Sephora Sunscreen SPF70 Edition E4
+Revlon,Makeup,Concealer,Normal,Yes,2,45.52,Revlon Concealer Edition D6
+Lancome,Makeup,Face Powder,Oily,Yes,2.4,63.46,Lancome Face Powder Edition E2
+Sephora,Makeup,Sunscreen,Oily,No,3.7,12.75,Sephora Sunscreen SPF30 Edition C8
+Maybelline,Makeup,Sunscreen,Oily,No,1.3,13.34,Maybelline Sunscreen SPF50 Edition A9
+Clinique,Skincare,Concealer,Normal,Yes,1.8,21.32,Clinique Concealer Edition D8
+Sephora,Skincare,Foundation,Dry,No,4.2,54.22,Sephora Foundation Edition A3
+NARS,Skincare,Concealer,Normal,No,1.6,25.33,NARS Concealer Edition E8
+NARS,Skincare,Face Powder,Dry,Yes,2.4,31.91,NARS Face Powder Edition C7
+Sephora,Makeup,Sunscreen,Oily,Yes,4.5,43.03,Sephora Sunscreen SPF30 Edition C8
+Estee Lauder,Skincare,Concealer,Oily,No,1.6,82.13,Estee Lauder Concealer Edition C3
+Clinique,Makeup,Foundation,Dry,Yes,1.3,6.32,Clinique Foundation Edition B7
+Maybelline,Makeup,Concealer,Dry,Yes,2.9,66.69,Maybelline Concealer Edition D9
+Sephora,Makeup,Body Lotion,Normal,No,2.2,68.54,Sephora Body Lotion Edition A3
+Estee Lauder,Makeup,Foundation,Oily,Yes,3.3,80.87,Estee Lauder Foundation Edition E3
+NARS,Makeup,Face Powder,Normal,Yes,4.2,93.61,NARS Face Powder Edition A7
+NARS,Skincare,Sunscreen,Normal,Yes,1.5,6.91,NARS Sunscreen SPF100 Edition B8
+Revlon,Skincare,Concealer,Normal,Yes,3.3,19.61,Revlon Concealer Edition B5
+Sephora,Skincare,Foundation,Oily,Yes,3,89.19,Sephora Foundation Edition E1
+Clinique,Skincare,Body Lotion,Normal,No,1.6,48.56,Clinique Body Lotion Edition B5
+L'Oreal,Makeup,Foundation,Normal,No,3.5,58.64,L'Oreal Foundation Edition E1
+Clinique,Skincare,Face Cream,Normal,Yes,2.1,67.99,Clinique Face Cream Edition C7
+NARS,Makeup,Body Lotion,Normal,No,3,69.51,NARS Body Lotion Edition A2
+NARS,Skincare,Face Powder,Normal,Yes,1.3,93.52,NARS Face Powder Edition B5
+MAC,Makeup,Sunscreen,Normal,Yes,2.8,99.71,MAC Sunscreen SPF15 Edition B7
+NARS,Makeup,Face Powder,Oily,Yes,2.2,73.41,NARS Face Powder Edition B1
+Maybelline,Skincare,Concealer,Normal,Yes,4.3,32.29,Maybelline Concealer Edition A6
+Dior,Makeup,Foundation,Dry,Yes,1.2,88.58,Dior Foundation Edition B1
+Sephora,Makeup,Face Cream,Normal,No,2.7,9.68,Sephora Face Cream Edition B6
+Clinique,Skincare,Body Lotion,Normal,No,2.8,26.95,Clinique Body Lotion Edition B8
+Dior,Makeup,Body Lotion,Oily,Yes,3.9,90.25,Dior Body Lotion Edition B9
+Estee Lauder,Skincare,Foundation,Oily,No,3.3,29.34,Estee Lauder Foundation Edition D1
+L'Oreal,Skincare,Face Cream,Dry,Yes,3.7,25.96,L'Oreal Face Cream Edition E6
+Maybelline,Skincare,Foundation,Dry,No,4.1,18.12,Maybelline Foundation Edition B7
+Clinique,Makeup,Concealer,Oily,Yes,4.4,86.62,Clinique Concealer Edition D3
+Dior,Makeup,Face Powder,Oily,No,2.3,52.51,Dior Face Powder Edition C7
+L'Oreal,Makeup,Body Lotion,Normal,Yes,3.2,69.11,L'Oreal Body Lotion Edition B9
+MAC,Skincare,Concealer,Oily,Yes,4.4,27.71,MAC Concealer Edition E5
+Maybelline,Makeup,Face Powder,Dry,No,5,77.01,Maybelline Face Powder Edition A5
+Maybelline,Skincare,Concealer,Normal,No,4.6,77.2,Maybelline Concealer Edition C9
+MAC,Skincare,Face Cream,Dry,Yes,2.5,34.7,MAC Face Cream Edition D2
+Sephora,Makeup,Body Lotion,Normal,No,1.8,44.01,Sephora Body Lotion Edition A2
+MAC,Skincare,Foundation,Oily,Yes,3,24.92,MAC Foundation Edition C2
+Maybelline,Makeup,Foundation,Dry,No,4,97.77,Maybelline Foundation Edition C6
+Maybelline,Makeup,Face Powder,Normal,No,3,66.33,Maybelline Face Powder Edition C8
+Dior,Makeup,Sunscreen,Normal,Yes,2.9,93.78,Dior Sunscreen SPF15 Edition C6
+NARS,Makeup,Face Cream,Oily,No,4.4,33.82,NARS Face Cream Edition C3
+L'Oreal,Makeup,Face Powder,Oily,No,2.4,79.28,L'Oreal Face Powder Edition B7
+MAC,Skincare,Sunscreen,Oily,Yes,4.4,77.76,MAC Sunscreen SPF70 Edition A4
+L'Oreal,Skincare,Concealer,Dry,No,2.6,70.71,L'Oreal Concealer Edition E3
+MAC,Skincare,Face Cream,Normal,Yes,2.3,96.74,MAC Face Cream Edition C9
+Estee Lauder,Makeup,Concealer,Oily,Yes,2.8,42.39,Estee Lauder Concealer Edition D5
+Maybelline,Makeup,Body Lotion,Dry,Yes,4,17.42,Maybelline Body Lotion Edition A2
+NARS,Makeup,Face Cream,Dry,Yes,1.5,68.81,NARS Face Cream Edition D9
+Dior,Skincare,Sunscreen,Dry,Yes,1.8,74.28,Dior Sunscreen SPF100 Edition B5
+NARS,Makeup,Body Lotion,Oily,No,4.8,59.63,NARS Body Lotion Edition C6
+NARS,Skincare,Foundation,Oily,Yes,1.7,24.65,NARS Foundation Edition D7
+NARS,Skincare,Sunscreen,Normal,Yes,3.3,52.92,NARS Sunscreen SPF70 Edition B3
+L'Oreal,Makeup,Face Powder,Normal,No,3.3,34.66,L'Oreal Face Powder Edition B9
+MAC,Makeup,Foundation,Oily,No,3,45.61,MAC Foundation Edition C1
+Lancome,Skincare,Foundation,Dry,No,3.6,66.3,Lancome Foundation Edition C2
+Estee Lauder,Makeup,Face Powder,Dry,Yes,1.9,75.8,Estee Lauder Face Powder Edition B6
+Clinique,Skincare,Face Cream,Dry,Yes,3.2,27.06,Clinique Face Cream Edition C8
+NARS,Makeup,Foundation,Normal,Yes,2.5,43.51,NARS Foundation Edition B3
+Sephora,Makeup,Sunscreen,Dry,No,3.6,30.57,Sephora Sunscreen SPF15 Edition B9
+L'Oreal,Skincare,Body Lotion,Normal,Yes,1.6,23.87,L'Oreal Body Lotion Edition E3
+Dior,Makeup,Foundation,Normal,No,3.3,79.42,Dior Foundation Edition B2
+Clinique,Skincare,Sunscreen,Dry,Yes,1.7,91.38,Clinique Sunscreen SPF100 Edition A6
+Lancome,Makeup,Concealer,Dry,No,2.1,40.17,Lancome Concealer Edition A1
+Sephora,Skincare,Sunscreen,Oily,Yes,1.9,76.37,Sephora Sunscreen SPF70 Edition E6
+Lancome,Skincare,Body Lotion,Oily,Yes,1.7,90.21,Lancome Body Lotion Edition D1
+Clinique,Makeup,Sunscreen,Dry,Yes,4.3,85.38,Clinique Sunscreen SPF30 Edition C8
+NARS,Skincare,Face Powder,Normal,No,2.1,22.37,NARS Face Powder Edition D3
+Sephora,Makeup,Body Lotion,Normal,No,4.7,95.85,Sephora Body Lotion Edition D7
+Lancome,Makeup,Face Cream,Normal,Yes,4.9,40.78,Lancome Face Cream Edition D2
+Dior,Makeup,Concealer,Normal,Yes,3.3,37.23,Dior Concealer Edition E9
+MAC,Skincare,Face Powder,Normal,Yes,1.6,10.93,MAC Face Powder Edition E5
+Maybelline,Skincare,Face Cream,Oily,No,2.5,51.19,Maybelline Face Cream Edition C1
+MAC,Makeup,Sunscreen,Dry,Yes,4.2,15.36,MAC Sunscreen SPF15 Edition B8
+Clinique,Makeup,Body Lotion,Oily,Yes,2.5,28.61,Clinique Body Lotion Edition E3
+L'Oreal,Skincare,Concealer,Normal,Yes,1.3,35.11,L'Oreal Concealer Edition D7
+Maybelline,Makeup,Face Powder,Normal,Yes,3.2,81.84,Maybelline Face Powder Edition A2
+Estee Lauder,Makeup,Face Cream,Normal,No,4.4,88.17,Estee Lauder Face Cream Edition A3
+Dior,Skincare,Face Cream,Normal,No,4.2,33.73,Dior Face Cream Edition B7
+Estee Lauder,Makeup,Concealer,Dry,Yes,1.7,86.58,Estee Lauder Concealer Edition E5
+Sephora,Skincare,Sunscreen,Normal,Yes,3.7,86.44,Sephora Sunscreen SPF70 Edition B5
+Maybelline,Makeup,Concealer,Dry,No,1.9,77.64,Maybelline Concealer Edition E5
+Estee Lauder,Skincare,Face Cream,Normal,No,1.9,18.94,Estee Lauder Face Cream Edition E4
+Estee Lauder,Makeup,Foundation,Dry,Yes,4.5,70.58,Estee Lauder Foundation Edition E6
+Lancome,Makeup,Face Powder,Oily,No,2,94.78,Lancome Face Powder Edition D2
+MAC,Skincare,Concealer,Normal,No,2.1,69.84,MAC Concealer Edition A2
+Lancome,Makeup,Face Cream,Dry,Yes,1,36.5,Lancome Face Cream Edition A6
+Maybelline,Skincare,Sunscreen,Oily,No,4.5,52.56,Maybelline Sunscreen SPF50 Edition A9
+Maybelline,Makeup,Face Cream,Normal,No,4.2,66.34,Maybelline Face Cream Edition A1
+Clinique,Skincare,Sunscreen,Normal,Yes,3.5,53.5,Clinique Sunscreen SPF100 Edition C5
+Lancome,Skincare,Concealer,Normal,Yes,4,16.4,Lancome Concealer Edition C9
+Revlon,Skincare,Sunscreen,Dry,No,1.6,34.65,Revlon Sunscreen SPF50 Edition A3
+MAC,Skincare,Body Lotion,Dry,Yes,2.8,81.23,MAC Body Lotion Edition D5
+Maybelline,Makeup,Body Lotion,Oily,No,2.4,86.83,Maybelline Body Lotion Edition B6
+Clinique,Makeup,Body Lotion,Dry,Yes,1.4,18.04,Clinique Body Lotion Edition E9
+Lancome,Skincare,Foundation,Dry,No,2.9,95.48,Lancome Foundation Edition C5
+MAC,Skincare,Concealer,Normal,Yes,4.7,36.24,MAC Concealer Edition D5
+Lancome,Skincare,Face Cream,Normal,No,1.2,67.92,Lancome Face Cream Edition A8
+Estee Lauder,Makeup,Face Cream,Normal,No,2.2,76.42,Estee Lauder Face Cream Edition B4
+Clinique,Makeup,Foundation,Normal,No,1.8,82.13,Clinique Foundation Edition D2
+MAC,Makeup,Sunscreen,Normal,Yes,2,94.85,MAC Sunscreen SPF15 Edition D7
+NARS,Makeup,Foundation,Normal,Yes,4.6,34.73,NARS Foundation Edition D9
+Sephora,Skincare,Sunscreen,Normal,No,2.9,86.56,Sephora Sunscreen SPF30 Edition B7
+Sephora,Skincare,Sunscreen,Oily,No,2.9,17.51,Sephora Sunscreen SPF70 Edition E2
+MAC,Skincare,Face Powder,Oily,Yes,4,71.98,MAC Face Powder Edition A5
+Lancome,Makeup,Face Cream,Oily,Yes,1.6,75.49,Lancome Face Cream Edition A8
+Clinique,Makeup,Body Lotion,Oily,Yes,2.9,69.38,Clinique Body Lotion Edition B1
+Sephora,Makeup,Sunscreen,Normal,Yes,2.7,28.97,Sephora Sunscreen SPF70 Edition B7
+Clinique,Skincare,Face Powder,Oily,Yes,3.4,87.94,Clinique Face Powder Edition B5
+Sephora,Skincare,Face Cream,Normal,Yes,5,21.04,Sephora Face Cream Edition D7
+Estee Lauder,Makeup,Body Lotion,Oily,No,4.1,10.1,Estee Lauder Body Lotion Edition C2
+Lancome,Skincare,Sunscreen,Dry,Yes,2.6,73.16,Lancome Sunscreen SPF100 Edition E7
+Estee Lauder,Makeup,Sunscreen,Oily,No,4.3,50.17,Estee Lauder Sunscreen SPF15 Edition A1
+Sephora,Makeup,Foundation,Oily,Yes,1.7,85.66,Sephora Foundation Edition E1
+NARS,Skincare,Foundation,Normal,Yes,1.1,41.42,NARS Foundation Edition A1
+NARS,Makeup,Face Cream,Oily,No,1.8,20.99,NARS Face Cream Edition B4
+Estee Lauder,Skincare,Body Lotion,Dry,No,2.4,84.46,Estee Lauder Body Lotion Edition C5
+NARS,Makeup,Sunscreen,Normal,Yes,3,57.15,NARS Sunscreen SPF15 Edition E2
+Sephora,Skincare,Face Cream,Normal,No,3.5,22.97,Sephora Face Cream Edition B9
+MAC,Skincare,Face Cream,Oily,No,4.6,73.44,MAC Face Cream Edition A6
+Estee Lauder,Skincare,Concealer,Normal,No,3,53.56,Estee Lauder Concealer Edition A3
+L'Oreal,Makeup,Foundation,Normal,No,3,62.41,L'Oreal Foundation Edition C6
+Lancome,Makeup,Body Lotion,Normal,Yes,1.2,48.79,Lancome Body Lotion Edition C8
+NARS,Skincare,Sunscreen,Normal,No,1.1,83.73,NARS Sunscreen SPF70 Edition E2
+NARS,Skincare,Face Cream,Normal,Yes,3.2,83.81,NARS Face Cream Edition A4
+Maybelline,Makeup,Sunscreen,Normal,Yes,2.8,72.39,Maybelline Sunscreen SPF100 Edition B8
+Revlon,Makeup,Concealer,Dry,Yes,4.4,15.01,Revlon Concealer Edition C1
+Estee Lauder,Makeup,Body Lotion,Oily,Yes,1.6,84.69,Estee Lauder Body Lotion Edition C8
+Dior,Skincare,Face Cream,Dry,No,1.1,68.75,Dior Face Cream Edition D3
+NARS,Makeup,Sunscreen,Normal,No,2.8,71.22,NARS Sunscreen SPF30 Edition A5
+Lancome,Makeup,Foundation,Normal,Yes,1.9,39.48,Lancome Foundation Edition C4
+L'Oreal,Skincare,Concealer,Oily,Yes,1.2,88.53,L'Oreal Concealer Edition A9
+NARS,Makeup,Body Lotion,Dry,Yes,3.9,73.91,NARS Body Lotion Edition C4
+L'Oreal,Makeup,Concealer,Oily,Yes,1.4,15.7,L'Oreal Concealer Edition A2
+Sephora,Makeup,Foundation,Dry,No,3.4,43.74,Sephora Foundation Edition A5
+Sephora,Skincare,Body Lotion,Normal,Yes,2.1,89.21,Sephora Body Lotion Edition E6
+Revlon,Skincare,Concealer,Oily,No,1.7,9.48,Revlon Concealer Edition C4
+MAC,Skincare,Face Powder,Oily,Yes,2.5,96.33,MAC Face Powder Edition A7
+Dior,Skincare,Foundation,Normal,Yes,4.2,69.52,Dior Foundation Edition A5
+Maybelline,Skincare,Foundation,Oily,Yes,2.6,64.98,Maybelline Foundation Edition E2
+Revlon,Skincare,Foundation,Dry,Yes,4,30.7,Revlon Foundation Edition E9
+Clinique,Skincare,Face Powder,Dry,No,1.5,28.64,Clinique Face Powder Edition B6
+Maybelline,Makeup,Face Powder,Dry,No,4.1,94.5,Maybelline Face Powder Edition B8
+Estee Lauder,Makeup,Sunscreen,Dry,No,1.9,33.34,Estee Lauder Sunscreen SPF70 Edition C1
+Lancome,Skincare,Face Cream,Normal,Yes,3.7,78.67,Lancome Face Cream Edition B8
+Clinique,Makeup,Concealer,Oily,Yes,3.3,42.35,Clinique Concealer Edition E6
+Clinique,Makeup,Sunscreen,Dry,No,4.7,18.23,Clinique Sunscreen SPF50 Edition C9
+Revlon,Skincare,Concealer,Normal,No,2.5,6.02,Revlon Concealer Edition D2
+MAC,Makeup,Face Cream,Oily,Yes,1.3,56.7,MAC Face Cream Edition B5
+Revlon,Makeup,Face Powder,Oily,Yes,1.1,97.7,Revlon Face Powder Edition B9
+Estee Lauder,Makeup,Face Cream,Normal,No,4.3,40.07,Estee Lauder Face Cream Edition D3
+NARS,Makeup,Face Powder,Normal,Yes,3.1,38.93,NARS Face Powder Edition D6
+NARS,Makeup,Face Cream,Dry,Yes,4.1,37.69,NARS Face Cream Edition B6
+MAC,Skincare,Sunscreen,Oily,No,1.9,54.45,MAC Sunscreen SPF70 Edition C5
+Estee Lauder,Skincare,Body Lotion,Oily,Yes,2.4,46.86,Estee Lauder Body Lotion Edition C1
+MAC,Skincare,Sunscreen,Normal,No,1.1,88.59,MAC Sunscreen SPF50 Edition D7
+L'Oreal,Makeup,Concealer,Oily,Yes,4.8,53.02,L'Oreal Concealer Edition D5
+NARS,Skincare,Sunscreen,Dry,No,3.7,53.24,NARS Sunscreen SPF50 Edition E2
+Clinique,Makeup,Foundation,Oily,Yes,4.7,18.15,Clinique Foundation Edition B2
+Dior,Makeup,Concealer,Normal,No,2.1,98.36,Dior Concealer Edition D4
+Lancome,Makeup,Face Cream,Normal,No,3.4,28.75,Lancome Face Cream Edition D6
+Estee Lauder,Makeup,Concealer,Dry,No,3.7,11.97,Estee Lauder Concealer Edition B6
+Maybelline,Skincare,Body Lotion,Dry,No,2.3,68,Maybelline Body Lotion Edition C3
+MAC,Skincare,Face Powder,Oily,Yes,4.4,61.56,MAC Face Powder Edition C8
+Lancome,Makeup,Face Cream,Oily,Yes,4.8,44.44,Lancome Face Cream Edition B8
+Maybelline,Skincare,Concealer,Normal,No,4.5,45.11,Maybelline Concealer Edition E5
+Lancome,Makeup,Face Cream,Dry,Yes,4,79.58,Lancome Face Cream Edition B7
+Dior,Skincare,Face Cream,Dry,Yes,2.1,23.59,Dior Face Cream Edition B6
+Maybelline,Skincare,Face Cream,Dry,Yes,2.1,82.92,Maybelline Face Cream Edition B3
+Revlon,Makeup,Face Powder,Oily,Yes,4.9,66.63,Revlon Face Powder Edition A3
+Sephora,Skincare,Sunscreen,Dry,Yes,1,44.8,Sephora Sunscreen SPF100 Edition C3
+Revlon,Makeup,Face Cream,Normal,No,3.9,48.51,Revlon Face Cream Edition D7
+NARS,Skincare,Foundation,Normal,No,3.8,29.38,NARS Foundation Edition A5
+Sephora,Makeup,Body Lotion,Oily,No,3.5,76.45,Sephora Body Lotion Edition B3
+Revlon,Makeup,Face Powder,Oily,No,5,53.72,Revlon Face Powder Edition E4
+Sephora,Skincare,Concealer,Dry,Yes,2.2,35.48,Sephora Concealer Edition D2
+Sephora,Skincare,Face Powder,Oily,Yes,2.4,61.62,Sephora Face Powder Edition E5
+Clinique,Makeup,Concealer,Normal,No,1.3,99.59,Clinique Concealer Edition D8
+MAC,Skincare,Face Powder,Dry,Yes,2.8,46.35,MAC Face Powder Edition A9
+MAC,Skincare,Concealer,Normal,Yes,2,92.47,MAC Concealer Edition C3
+Clinique,Makeup,Face Cream,Dry,No,2.4,37.78,Clinique Face Cream Edition E5
+Lancome,Makeup,Sunscreen,Oily,Yes,4.3,10.2,Lancome Sunscreen SPF15 Edition B2
+L'Oreal,Skincare,Concealer,Dry,No,4.7,24.4,L'Oreal Concealer Edition C1
+Lancome,Makeup,Concealer,Dry,No,1.7,44.78,Lancome Concealer Edition A2
+Maybelline,Makeup,Foundation,Normal,Yes,2.5,25.87,Maybelline Foundation Edition C4
+Maybelline,Makeup,Concealer,Normal,Yes,4.7,5.02,Maybelline Concealer Edition D2
+Sephora,Skincare,Foundation,Dry,No,1.2,91.93,Sephora Foundation Edition B7
+Revlon,Skincare,Body Lotion,Oily,No,1.4,85.17,Revlon Body Lotion Edition E1
+Revlon,Makeup,Face Cream,Oily,Yes,1.7,75.52,Revlon Face Cream Edition D1
+MAC,Skincare,Foundation,Normal,No,3.4,20.94,MAC Foundation Edition C8
+Estee Lauder,Makeup,Sunscreen,Oily,No,1.6,16.43,Estee Lauder Sunscreen SPF100 Edition C2
+Lancome,Skincare,Face Cream,Normal,No,4.9,11.42,Lancome Face Cream Edition B8
+NARS,Makeup,Foundation,Oily,Yes,2.8,73.78,NARS Foundation Edition C6
+Dior,Makeup,Face Cream,Dry,No,3,93.24,Dior Face Cream Edition A2
+Revlon,Skincare,Face Cream,Normal,Yes,2,45.9,Revlon Face Cream Edition D9
+Dior,Makeup,Face Cream,Normal,No,2.9,16.32,Dior Face Cream Edition C8
+Sephora,Skincare,Body Lotion,Dry,Yes,3.6,53.68,Sephora Body Lotion Edition D7
+Dior,Skincare,Sunscreen,Normal,No,4,38.14,Dior Sunscreen SPF50 Edition E2
+NARS,Makeup,Face Powder,Oily,Yes,4,40.61,NARS Face Powder Edition B3
+Clinique,Makeup,Face Powder,Oily,Yes,3.3,64.03,Clinique Face Powder Edition D2
+NARS,Skincare,Foundation,Normal,Yes,4.6,73.28,NARS Foundation Edition B8
+Dior,Makeup,Face Cream,Oily,No,4.3,15.51,Dior Face Cream Edition B6
+NARS,Makeup,Foundation,Normal,No,4,8.38,NARS Foundation Edition E5
+L'Oreal,Makeup,Body Lotion,Dry,No,1.2,99.46,L'Oreal Body Lotion Edition D4
+Sephora,Makeup,Body Lotion,Normal,Yes,1,27.11,Sephora Body Lotion Edition E1
+Lancome,Makeup,Concealer,Dry,No,1.8,10.11,Lancome Concealer Edition A2
+Clinique,Skincare,Body Lotion,Oily,Yes,3.7,23.04,Clinique Body Lotion Edition B9
+Revlon,Skincare,Concealer,Dry,No,2.6,8.7,Revlon Concealer Edition E2
+Maybelline,Makeup,Sunscreen,Oily,Yes,2.6,42.22,Maybelline Sunscreen SPF70 Edition D7
+Lancome,Makeup,Foundation,Normal,Yes,4.5,81.23,Lancome Foundation Edition E2
+Maybelline,Makeup,Sunscreen,Oily,Yes,4.6,37.42,Maybelline Sunscreen SPF70 Edition D2
+Sephora,Skincare,Body Lotion,Normal,No,4.6,47.2,Sephora Body Lotion Edition A7
+Clinique,Makeup,Sunscreen,Normal,No,2.3,69.18,Clinique Sunscreen SPF50 Edition D5
+MAC,Skincare,Sunscreen,Dry,No,3.8,53.34,MAC Sunscreen SPF50 Edition D4
+Revlon,Skincare,Sunscreen,Dry,Yes,2.1,86.84,Revlon Sunscreen SPF50 Edition D8
+L'Oreal,Skincare,Body Lotion,Dry,Yes,1.8,87.27,L'Oreal Body Lotion Edition E7
+MAC,Makeup,Face Cream,Dry,No,1.7,5.94,MAC Face Cream Edition B3
+Sephora,Skincare,Sunscreen,Oily,No,2.4,78.91,Sephora Sunscreen SPF50 Edition B9
+Lancome,Makeup,Concealer,Oily,No,2.7,48.77,Lancome Concealer Edition B9
+L'Oreal,Skincare,Body Lotion,Oily,Yes,4.3,98.94,L'Oreal Body Lotion Edition E9
+NARS,Makeup,Sunscreen,Normal,Yes,1.5,50.91,NARS Sunscreen SPF50 Edition D9
+Dior,Skincare,Face Cream,Oily,Yes,3.9,98.76,Dior Face Cream Edition C8
+L'Oreal,Makeup,Body Lotion,Oily,Yes,3.1,76.68,L'Oreal Body Lotion Edition B4
+Sephora,Skincare,Face Powder,Oily,Yes,2.2,28.62,Sephora Face Powder Edition C3
+Estee Lauder,Makeup,Face Cream,Dry,No,3,56.15,Estee Lauder Face Cream Edition D5
+Dior,Makeup,Concealer,Oily,Yes,2.2,99.25,Dior Concealer Edition C1
+Maybelline,Makeup,Sunscreen,Normal,Yes,3.4,86.47,Maybelline Sunscreen SPF50 Edition B3
+Revlon,Makeup,Face Powder,Dry,Yes,2.7,14.25,Revlon Face Powder Edition E9
+Maybelline,Skincare,Face Powder,Normal,Yes,1.7,72.11,Maybelline Face Powder Edition B2
+L'Oreal,Skincare,Body Lotion,Oily,Yes,1.5,37.83,L'Oreal Body Lotion Edition D6
+Maybelline,Makeup,Face Powder,Dry,No,3.2,5.66,Maybelline Face Powder Edition C8
+Sephora,Skincare,Concealer,Normal,Yes,4.6,43.33,Sephora Concealer Edition D2
+NARS,Makeup,Concealer,Oily,Yes,2.4,27.3,NARS Concealer Edition A2
+Lancome,Makeup,Foundation,Normal,Yes,3.9,82.79,Lancome Foundation Edition E1
+Revlon,Skincare,Concealer,Normal,No,3.6,37.05,Revlon Concealer Edition B2
+Maybelline,Makeup,Face Cream,Normal,No,4.7,83.61,Maybelline Face Cream Edition D7
+Maybelline,Makeup,Face Powder,Oily,No,4.3,5.06,Maybelline Face Powder Edition E6
+L'Oreal,Skincare,Concealer,Oily,Yes,3.3,34.24,L'Oreal Concealer Edition D1
+Lancome,Makeup,Body Lotion,Normal,No,3.6,27.91,Lancome Body Lotion Edition D8
+MAC,Makeup,Foundation,Dry,Yes,4.6,27.19,MAC Foundation Edition E3
+Maybelline,Makeup,Face Powder,Dry,Yes,2.6,11.48,Maybelline Face Powder Edition C1
+Sephora,Makeup,Foundation,Oily,No,2.3,22.78,Sephora Foundation Edition C4
+Estee Lauder,Skincare,Face Powder,Oily,Yes,1,57.78,Estee Lauder Face Powder Edition A8
+Revlon,Skincare,Body Lotion,Oily,Yes,4.3,32.68,Revlon Body Lotion Edition E1
+Maybelline,Skincare,Foundation,Oily,Yes,4.2,44.65,Maybelline Foundation Edition A2
+Sephora,Makeup,Sunscreen,Oily,No,1.4,40.8,Sephora Sunscreen SPF50 Edition A8
+Sephora,Makeup,Face Cream,Dry,Yes,3.3,88.21,Sephora Face Cream Edition B7
+Revlon,Skincare,Face Cream,Oily,Yes,2.9,91,Revlon Face Cream Edition E6
+MAC,Makeup,Face Powder,Normal,No,1.5,51.83,MAC Face Powder Edition D2
+Sephora,Makeup,Sunscreen,Normal,Yes,4.9,36.36,Sephora Sunscreen SPF70 Edition A3
+Estee Lauder,Makeup,Foundation,Dry,Yes,1.9,15.15,Estee Lauder Foundation Edition B6
+Sephora,Makeup,Sunscreen,Normal,No,1.3,95.57,Sephora Sunscreen SPF50 Edition C8
+Sephora,Skincare,Sunscreen,Dry,Yes,3.4,10.72,Sephora Sunscreen SPF100 Edition C1
+Sephora,Skincare,Foundation,Dry,Yes,4,33.28,Sephora Foundation Edition C8
+NARS,Skincare,Body Lotion,Normal,Yes,1.1,33.32,NARS Body Lotion Edition B1
+NARS,Makeup,Sunscreen,Oily,Yes,3.6,35.44,NARS Sunscreen SPF100 Edition A4
+MAC,Skincare,Sunscreen,Normal,Yes,3.1,20.61,MAC Sunscreen SPF70 Edition A1
+Maybelline,Skincare,Body Lotion,Normal,No,1.4,79.4,Maybelline Body Lotion Edition A5
+Sephora,Makeup,Sunscreen,Dry,No,1.7,16.64,Sephora Sunscreen SPF100 Edition B5
+Lancome,Makeup,Sunscreen,Normal,No,3.3,65.32,Lancome Sunscreen SPF50 Edition B6
+Maybelline,Skincare,Sunscreen,Dry,No,2.2,16.77,Maybelline Sunscreen SPF70 Edition A1
+MAC,Skincare,Face Cream,Oily,Yes,4.8,11.7,MAC Face Cream Edition A8
+Clinique,Skincare,Concealer,Oily,Yes,4.3,91.4,Clinique Concealer Edition B9
+Maybelline,Skincare,Body Lotion,Oily,Yes,4.9,23.06,Maybelline Body Lotion Edition A9
+Maybelline,Makeup,Sunscreen,Normal,Yes,2,83.02,Maybelline Sunscreen SPF15 Edition C9
+Dior,Skincare,Face Cream,Dry,Yes,4.9,56.74,Dior Face Cream Edition A9
+L'Oreal,Skincare,Body Lotion,Oily,No,2.7,12.4,L'Oreal Body Lotion Edition C6
+Dior,Makeup,Face Powder,Dry,No,2.4,95.77,Dior Face Powder Edition D7
+Estee Lauder,Skincare,Face Powder,Dry,Yes,1.2,28.46,Estee Lauder Face Powder Edition E7
+NARS,Makeup,Sunscreen,Oily,Yes,1.2,86.67,NARS Sunscreen SPF70 Edition A8
+NARS,Makeup,Face Cream,Oily,Yes,3.8,21.04,NARS Face Cream Edition E8
+L'Oreal,Makeup,Face Cream,Dry,No,2.8,86.12,L'Oreal Face Cream Edition C4
+Revlon,Skincare,Body Lotion,Oily,Yes,1.9,6.26,Revlon Body Lotion Edition C7
+Revlon,Skincare,Body Lotion,Dry,Yes,3.5,53.62,Revlon Body Lotion Edition D4
+MAC,Makeup,Face Cream,Dry,Yes,2,78.1,MAC Face Cream Edition E8
+L'Oreal,Skincare,Body Lotion,Oily,No,3.3,93.81,L'Oreal Body Lotion Edition A7
+Maybelline,Skincare,Face Cream,Normal,Yes,2.4,91.37,Maybelline Face Cream Edition D7
+Revlon,Makeup,Concealer,Oily,No,4.3,82.86,Revlon Concealer Edition C7
+Sephora,Makeup,Face Cream,Normal,No,4.3,89.38,Sephora Face Cream Edition B8
+Lancome,Skincare,Face Powder,Dry,No,2.9,23.93,Lancome Face Powder Edition A9
+Maybelline,Makeup,Body Lotion,Dry,No,2.4,32,Maybelline Body Lotion Edition B7
+Estee Lauder,Skincare,Face Cream,Normal,No,2.5,32.45,Estee Lauder Face Cream Edition D9
+Sephora,Skincare,Face Cream,Dry,No,4.2,40.82,Sephora Face Cream Edition D1
+Sephora,Skincare,Body Lotion,Normal,Yes,2.3,42.37,Sephora Body Lotion Edition B2
+L'Oreal,Skincare,Concealer,Normal,Yes,1.8,56.73,L'Oreal Concealer Edition D8
+MAC,Makeup,Concealer,Dry,Yes,1.3,20.19,MAC Concealer Edition A4
+Estee Lauder,Makeup,Body Lotion,Normal,No,2.9,70.67,Estee Lauder Body Lotion Edition B5
+Revlon,Makeup,Foundation,Oily,Yes,2.9,20.92,Revlon Foundation Edition A7
+L'Oreal,Makeup,Body Lotion,Oily,No,4.4,34.48,L'Oreal Body Lotion Edition C9
+Revlon,Skincare,Body Lotion,Dry,No,1.9,52.82,Revlon Body Lotion Edition E7
+L'Oreal,Skincare,Concealer,Dry,No,2.5,80.66,L'Oreal Concealer Edition E5
+L'Oreal,Makeup,Concealer,Normal,Yes,4.2,75.25,L'Oreal Concealer Edition B6
+L'Oreal,Skincare,Body Lotion,Normal,No,4.3,66.33,L'Oreal Body Lotion Edition E9
+MAC,Skincare,Body Lotion,Normal,No,2.5,19.8,MAC Body Lotion Edition C3
+L'Oreal,Skincare,Body Lotion,Normal,Yes,2.8,56.97,L'Oreal Body Lotion Edition C7
+Clinique,Makeup,Concealer,Oily,Yes,2.2,13.31,Clinique Concealer Edition E7
+Lancome,Makeup,Body Lotion,Oily,No,4.7,40.85,Lancome Body Lotion Edition B6
+Revlon,Makeup,Body Lotion,Dry,No,1.5,44.28,Revlon Body Lotion Edition A4
+Maybelline,Skincare,Sunscreen,Normal,Yes,4.7,8.78,Maybelline Sunscreen SPF15 Edition C1
+Dior,Makeup,Foundation,Normal,Yes,3.7,31.03,Dior Foundation Edition B8
+Estee Lauder,Makeup,Face Powder,Dry,Yes,3.1,95.79,Estee Lauder Face Powder Edition D1
+NARS,Makeup,Foundation,Normal,No,1.1,95.6,NARS Foundation Edition C2
+MAC,Makeup,Sunscreen,Normal,Yes,2.9,38.47,MAC Sunscreen SPF50 Edition D1
+Maybelline,Makeup,Face Powder,Normal,Yes,2.6,9.09,Maybelline Face Powder Edition E9
+Sephora,Makeup,Body Lotion,Normal,Yes,1.6,22.01,Sephora Body Lotion Edition D7
+Clinique,Skincare,Sunscreen,Normal,No,3.6,42.26,Clinique Sunscreen SPF30 Edition A9
+NARS,Skincare,Body Lotion,Dry,Yes,4.9,95.04,NARS Body Lotion Edition D9
+Dior,Makeup,Concealer,Normal,Yes,3.2,18.41,Dior Concealer Edition B6
+Maybelline,Makeup,Face Cream,Dry,Yes,3.9,77.53,Maybelline Face Cream Edition B4
+NARS,Skincare,Sunscreen,Normal,Yes,1.3,15.32,NARS Sunscreen SPF15 Edition C2
+Maybelline,Skincare,Concealer,Oily,Yes,2.7,98.22,Maybelline Concealer Edition E2
+Clinique,Makeup,Sunscreen,Oily,No,1.5,41.25,Clinique Sunscreen SPF50 Edition A4
+Dior,Makeup,Sunscreen,Oily,No,3.5,78.65,Dior Sunscreen SPF15 Edition B8
+Sephora,Makeup,Concealer,Oily,No,4.8,37.55,Sephora Concealer Edition D5
+L'Oreal,Makeup,Face Powder,Dry,Yes,3.6,64.63,L'Oreal Face Powder Edition D6
+Revlon,Skincare,Foundation,Dry,No,1.3,23.24,Revlon Foundation Edition C4
+Sephora,Makeup,Body Lotion,Normal,No,2.4,18.87,Sephora Body Lotion Edition E7
+L'Oreal,Makeup,Sunscreen,Oily,No,3.2,94.12,L'Oreal Sunscreen SPF50 Edition A6
+MAC,Makeup,Body Lotion,Dry,Yes,2.6,92.18,MAC Body Lotion Edition D3
+Lancome,Makeup,Face Cream,Normal,Yes,4.3,89.31,Lancome Face Cream Edition E2
+Estee Lauder,Skincare,Concealer,Normal,No,4.3,64.42,Estee Lauder Concealer Edition B6
+Estee Lauder,Skincare,Body Lotion,Dry,No,3.4,81.79,Estee Lauder Body Lotion Edition A6
+Revlon,Skincare,Concealer,Oily,Yes,2.5,11.56,Revlon Concealer Edition D2
+Dior,Makeup,Body Lotion,Normal,Yes,2,36.8,Dior Body Lotion Edition B7
+Clinique,Makeup,Foundation,Oily,No,1.4,34.8,Clinique Foundation Edition B1
+Dior,Skincare,Foundation,Oily,Yes,2.4,65.39,Dior Foundation Edition A3
+Clinique,Makeup,Foundation,Oily,No,2.7,38.82,Clinique Foundation Edition C6
+Dior,Makeup,Foundation,Normal,Yes,3.7,19.11,Dior Foundation Edition D2
+Lancome,Skincare,Foundation,Oily,No,3.6,61.66,Lancome Foundation Edition A1
+MAC,Skincare,Foundation,Normal,No,1.3,82.37,MAC Foundation Edition C3
+MAC,Skincare,Concealer,Oily,Yes,2.6,41.3,MAC Concealer Edition D2
+L'Oreal,Skincare,Sunscreen,Normal,No,1.7,17.57,L'Oreal Sunscreen SPF70 Edition E1
+NARS,Makeup,Body Lotion,Oily,No,1.6,23.69,NARS Body Lotion Edition B6
+MAC,Makeup,Foundation,Dry,No,4.3,27.56,MAC Foundation Edition C9
+MAC,Skincare,Concealer,Oily,Yes,1.2,33.49,MAC Concealer Edition B4
+Sephora,Makeup,Concealer,Oily,Yes,2.7,66.07,Sephora Concealer Edition E1
+Sephora,Skincare,Concealer,Normal,Yes,1.7,62.09,Sephora Concealer Edition D5
+L'Oreal,Skincare,Sunscreen,Normal,No,4.5,71.13,L'Oreal Sunscreen SPF30 Edition C3
+NARS,Makeup,Body Lotion,Oily,Yes,3.2,39.44,NARS Body Lotion Edition E3
+Revlon,Skincare,Sunscreen,Dry,No,1.9,83.28,Revlon Sunscreen SPF30 Edition C6
+Sephora,Makeup,Face Powder,Dry,No,3,24.39,Sephora Face Powder Edition D7
+Revlon,Makeup,Concealer,Normal,Yes,3.9,49.56,Revlon Concealer Edition A1
+Maybelline,Makeup,Face Powder,Dry,Yes,4.8,81.09,Maybelline Face Powder Edition D7
+Sephora,Makeup,Face Cream,Oily,No,1.9,22.12,Sephora Face Cream Edition A1
+Lancome,Skincare,Foundation,Normal,No,4.5,15.44,Lancome Foundation Edition D5
+NARS,Makeup,Foundation,Oily,Yes,4.7,88.95,NARS Foundation Edition E4
+L'Oreal,Skincare,Sunscreen,Normal,Yes,4.7,37.58,L'Oreal Sunscreen SPF30 Edition A7
+Maybelline,Skincare,Body Lotion,Normal,Yes,3.5,69.97,Maybelline Body Lotion Edition A7
+NARS,Skincare,Face Powder,Normal,No,3.5,7.41,NARS Face Powder Edition A7
+Lancome,Skincare,Body Lotion,Normal,No,2.6,70.55,Lancome Body Lotion Edition B8
+NARS,Makeup,Sunscreen,Dry,No,4,35.03,NARS Sunscreen SPF70 Edition C9
+Lancome,Makeup,Foundation,Oily,No,3.1,10.3,Lancome Foundation Edition C4
+Lancome,Skincare,Body Lotion,Oily,No,3.7,62.93,Lancome Body Lotion Edition D9
+Revlon,Skincare,Body Lotion,Oily,Yes,2.7,27.88,Revlon Body Lotion Edition E7
+Dior,Makeup,Foundation,Normal,Yes,3.9,41.75,Dior Foundation Edition C5
+Maybelline,Skincare,Face Powder,Dry,No,4.3,12.66,Maybelline Face Powder Edition A2
+NARS,Makeup,Foundation,Oily,No,1.6,18.98,NARS Foundation Edition C2
+Clinique,Skincare,Body Lotion,Dry,Yes,4.3,33.31,Clinique Body Lotion Edition A2
+Maybelline,Makeup,Face Powder,Normal,Yes,3.2,13.53,Maybelline Face Powder Edition D2
+Dior,Skincare,Face Powder,Oily,Yes,4.4,91.53,Dior Face Powder Edition E7
+Maybelline,Skincare,Foundation,Dry,Yes,2.7,5.57,Maybelline Foundation Edition E5
+MAC,Makeup,Body Lotion,Normal,No,2.5,50.97,MAC Body Lotion Edition A5
+Clinique,Skincare,Sunscreen,Dry,Yes,4.7,16.71,Clinique Sunscreen SPF100 Edition D3
+Dior,Skincare,Body Lotion,Oily,No,2,34.23,Dior Body Lotion Edition E2
+Revlon,Makeup,Concealer,Oily,Yes,4.4,92.98,Revlon Concealer Edition A8
+NARS,Skincare,Face Cream,Normal,Yes,2.9,20.36,NARS Face Cream Edition E7
+Estee Lauder,Makeup,Sunscreen,Normal,Yes,3.1,96.75,Estee Lauder Sunscreen SPF50 Edition A7
+Dior,Makeup,Face Powder,Normal,No,2.2,24.55,Dior Face Powder Edition C7
+L'Oreal,Skincare,Sunscreen,Dry,No,3.3,75.45,L'Oreal Sunscreen SPF70 Edition B3
+NARS,Skincare,Face Powder,Dry,Yes,2.3,56.93,NARS Face Powder Edition B6
+Dior,Skincare,Face Powder,Dry,No,1.2,89.03,Dior Face Powder Edition A9
+MAC,Skincare,Sunscreen,Normal,No,2.1,57.63,MAC Sunscreen SPF15 Edition E7
+Estee Lauder,Skincare,Face Powder,Oily,Yes,1,55.78,Estee Lauder Face Powder Edition A1
+MAC,Skincare,Face Powder,Oily,Yes,4.9,23.57,MAC Face Powder Edition A3
+Estee Lauder,Skincare,Concealer,Dry,No,4.9,20.79,Estee Lauder Concealer Edition B1
+L'Oreal,Makeup,Body Lotion,Dry,No,2.6,92.07,L'Oreal Body Lotion Edition A5
+NARS,Skincare,Body Lotion,Oily,No,3.9,36.14,NARS Body Lotion Edition D1
+Revlon,Makeup,Face Cream,Oily,Yes,2.4,40.35,Revlon Face Cream Edition D3
+MAC,Skincare,Face Cream,Dry,Yes,3.7,77.18,MAC Face Cream Edition B9
+MAC,Skincare,Concealer,Dry,No,4.2,37.19,MAC Concealer Edition C1
+Lancome,Makeup,Face Cream,Oily,Yes,4.8,95.45,Lancome Face Cream Edition E4
+Estee Lauder,Skincare,Sunscreen,Normal,Yes,2.6,75.1,Estee Lauder Sunscreen SPF15 Edition E5
+Sephora,Skincare,Foundation,Dry,No,4.1,61.76,Sephora Foundation Edition E9
+NARS,Makeup,Foundation,Oily,No,2.1,88.69,NARS Foundation Edition B7
+Estee Lauder,Skincare,Foundation,Oily,Yes,5,9.71,Estee Lauder Foundation Edition E4
+Lancome,Skincare,Concealer,Oily,Yes,1.1,29.42,Lancome Concealer Edition D6
+Maybelline,Skincare,Concealer,Oily,No,3.4,49.18,Maybelline Concealer Edition D5
+Estee Lauder,Makeup,Face Powder,Normal,Yes,3.6,26.56,Estee Lauder Face Powder Edition E6
+Revlon,Skincare,Foundation,Oily,Yes,3.8,75.67,Revlon Foundation Edition E7
+NARS,Skincare,Sunscreen,Dry,No,1.5,92.32,NARS Sunscreen SPF70 Edition A7
+Lancome,Skincare,Face Cream,Normal,No,4.8,45.26,Lancome Face Cream Edition A8
+Maybelline,Skincare,Sunscreen,Oily,Yes,1.7,37.5,Maybelline Sunscreen SPF100 Edition D1
+Clinique,Makeup,Face Cream,Normal,Yes,3.5,96.35,Clinique Face Cream Edition D8
+Lancome,Makeup,Foundation,Dry,Yes,1.9,47.26,Lancome Foundation Edition C9
+Clinique,Skincare,Foundation,Oily,No,2.2,51.46,Clinique Foundation Edition C1
+NARS,Skincare,Foundation,Dry,Yes,3.2,38.41,NARS Foundation Edition B6
+MAC,Makeup,Concealer,Oily,Yes,2.7,91.41,MAC Concealer Edition D2
+Lancome,Makeup,Face Cream,Oily,No,1.6,59.05,Lancome Face Cream Edition A1
+L'Oreal,Skincare,Concealer,Oily,No,1.7,77.41,L'Oreal Concealer Edition E9
+Clinique,Makeup,Concealer,Oily,Yes,2.7,82.12,Clinique Concealer Edition C3
+Revlon,Skincare,Body Lotion,Oily,No,4,37.48,Revlon Body Lotion Edition A3
+L'Oreal,Makeup,Sunscreen,Normal,No,4.6,46.2,L'Oreal Sunscreen SPF15 Edition D1
+Dior,Makeup,Sunscreen,Oily,Yes,1.3,85.6,Dior Sunscreen SPF70 Edition E9
+Dior,Makeup,Face Powder,Oily,No,2.6,39.51,Dior Face Powder Edition C9
+Maybelline,Makeup,Concealer,Normal,No,1.4,80.42,Maybelline Concealer Edition A2
+MAC,Skincare,Face Cream,Normal,Yes,1.1,94.39,MAC Face Cream Edition B6
+NARS,Makeup,Body Lotion,Normal,No,3.6,64.2,NARS Body Lotion Edition D8
+Lancome,Makeup,Body Lotion,Normal,Yes,3.4,75.45,Lancome Body Lotion Edition D7
+Sephora,Skincare,Sunscreen,Normal,Yes,1.7,81.48,Sephora Sunscreen SPF100 Edition C9
+Revlon,Makeup,Concealer,Normal,No,1.9,85.28,Revlon Concealer Edition E6
+Clinique,Makeup,Face Powder,Oily,No,1.1,42.53,Clinique Face Powder Edition A6
+NARS,Skincare,Concealer,Oily,No,4.3,9.87,NARS Concealer Edition B6
+L'Oreal,Makeup,Foundation,Dry,Yes,4.9,43.18,L'Oreal Foundation Edition A8
+Dior,Skincare,Concealer,Oily,No,1.5,69.01,Dior Concealer Edition A8
+Revlon,Skincare,Foundation,Oily,Yes,1.9,47.78,Revlon Foundation Edition C8
+Sephora,Skincare,Foundation,Normal,No,4.5,76.15,Sephora Foundation Edition E6
+Lancome,Skincare,Face Powder,Normal,No,4.7,38.91,Lancome Face Powder Edition C1
+Maybelline,Makeup,Face Cream,Oily,No,2.7,65.3,Maybelline Face Cream Edition D4
+Sephora,Skincare,Sunscreen,Dry,Yes,1.2,22.71,Sephora Sunscreen SPF50 Edition B6
+Revlon,Makeup,Concealer,Normal,No,1.2,76.19,Revlon Concealer Edition D2
+Sephora,Makeup,Foundation,Oily,No,3.3,56.84,Sephora Foundation Edition C4
+Revlon,Makeup,Concealer,Oily,Yes,2.6,24.39,Revlon Concealer Edition D1
+Revlon,Makeup,Face Cream,Dry,Yes,1.1,32.73,Revlon Face Cream Edition E2
+Estee Lauder,Makeup,Sunscreen,Dry,No,3.3,76.12,Estee Lauder Sunscreen SPF15 Edition A8
+Clinique,Makeup,Face Cream,Normal,No,1,50.85,Clinique Face Cream Edition E9
+Dior,Makeup,Sunscreen,Dry,No,4.1,25.52,Dior Sunscreen SPF50 Edition B2
+Estee Lauder,Makeup,Body Lotion,Oily,Yes,2.2,96.89,Estee Lauder Body Lotion Edition C6
+Lancome,Makeup,Sunscreen,Oily,Yes,1.2,72.94,Lancome Sunscreen SPF50 Edition C8
+Estee Lauder,Makeup,Face Powder,Dry,Yes,3.4,95.93,Estee Lauder Face Powder Edition E4
+MAC,Skincare,Face Cream,Dry,Yes,2.6,45.57,MAC Face Cream Edition D6
+MAC,Skincare,Foundation,Dry,No,4.9,50.13,MAC Foundation Edition A2
+Dior,Skincare,Body Lotion,Dry,Yes,3.2,90.31,Dior Body Lotion Edition B7
+Sephora,Makeup,Face Powder,Normal,Yes,2.1,54.88,Sephora Face Powder Edition B2
+Clinique,Skincare,Concealer,Dry,Yes,3.8,72.19,Clinique Concealer Edition D9
+Dior,Skincare,Face Cream,Normal,No,2.1,28.96,Dior Face Cream Edition B8
+Revlon,Skincare,Foundation,Oily,No,4.6,47.44,Revlon Foundation Edition D2
+L'Oreal,Makeup,Sunscreen,Dry,Yes,2.5,16.73,L'Oreal Sunscreen SPF30 Edition C7
+Clinique,Makeup,Foundation,Normal,Yes,3.2,24.57,Clinique Foundation Edition E1
+Clinique,Makeup,Concealer,Dry,No,1.2,5.09,Clinique Concealer Edition B8
+Revlon,Makeup,Body Lotion,Oily,No,2.7,8.73,Revlon Body Lotion Edition A3
+Revlon,Skincare,Body Lotion,Oily,No,4.3,97.84,Revlon Body Lotion Edition B5
+Maybelline,Skincare,Face Cream,Oily,No,4.2,28.02,Maybelline Face Cream Edition D7
+Dior,Skincare,Body Lotion,Dry,No,1.9,68.01,Dior Body Lotion Edition E8
+Revlon,Skincare,Face Cream,Dry,No,1.9,84.71,Revlon Face Cream Edition D6
+MAC,Makeup,Face Cream,Normal,No,4.3,57.31,MAC Face Cream Edition D2
+Lancome,Makeup,Face Cream,Oily,No,4.7,19.55,Lancome Face Cream Edition A1
+L'Oreal,Makeup,Sunscreen,Dry,Yes,1.4,74.17,L'Oreal Sunscreen SPF50 Edition D5
+Dior,Skincare,Face Powder,Oily,Yes,2.8,62.02,Dior Face Powder Edition D7
+NARS,Makeup,Face Cream,Oily,Yes,2.3,74.47,NARS Face Cream Edition E8
+MAC,Makeup,Face Cream,Normal,Yes,4.5,78.13,MAC Face Cream Edition E8
+Sephora,Skincare,Face Powder,Normal,Yes,1.3,97.66,Sephora Face Powder Edition B2
+Revlon,Skincare,Foundation,Normal,Yes,1.8,59.49,Revlon Foundation Edition A1
+NARS,Makeup,Face Cream,Normal,No,4,37.46,NARS Face Cream Edition C3
+Revlon,Makeup,Sunscreen,Oily,No,1.2,66.6,Revlon Sunscreen SPF15 Edition C5
+Clinique,Makeup,Body Lotion,Normal,Yes,3,11.5,Clinique Body Lotion Edition B6
+MAC,Makeup,Body Lotion,Normal,Yes,2.8,90.25,MAC Body Lotion Edition B3
+Clinique,Makeup,Concealer,Normal,No,2.3,16.34,Clinique Concealer Edition D3
+Maybelline,Makeup,Concealer,Normal,No,2.6,36.15,Maybelline Concealer Edition A8
+Clinique,Skincare,Body Lotion,Oily,No,3.1,82.5,Clinique Body Lotion Edition E2
+Maybelline,Skincare,Body Lotion,Normal,Yes,1.6,61.74,Maybelline Body Lotion Edition A8
+Maybelline,Skincare,Sunscreen,Oily,No,3.3,42.4,Maybelline Sunscreen SPF30 Edition D9
+NARS,Makeup,Face Powder,Dry,Yes,4.2,49.98,NARS Face Powder Edition A1
+Revlon,Skincare,Concealer,Oily,Yes,4,86.18,Revlon Concealer Edition A4
+Sephora,Makeup,Face Powder,Oily,No,1.6,37.3,Sephora Face Powder Edition E3
+Clinique,Makeup,Sunscreen,Normal,No,1.6,87.62,Clinique Sunscreen SPF100 Edition D8
+MAC,Skincare,Body Lotion,Dry,Yes,2.1,13.37,MAC Body Lotion Edition D9
+Maybelline,Makeup,Face Cream,Dry,No,2.4,78.8,Maybelline Face Cream Edition A6
+Revlon,Makeup,Face Powder,Dry,No,2.6,85.52,Revlon Face Powder Edition B7
+L'Oreal,Skincare,Body Lotion,Dry,Yes,3.7,22.27,L'Oreal Body Lotion Edition A6
+Dior,Skincare,Body Lotion,Oily,No,1.2,45.88,Dior Body Lotion Edition C7
+NARS,Skincare,Foundation,Dry,Yes,1.1,20.72,NARS Foundation Edition E1
+Sephora,Makeup,Face Powder,Oily,Yes,2.6,72.13,Sephora Face Powder Edition C5
+Estee Lauder,Skincare,Face Cream,Oily,No,3.8,55.86,Estee Lauder Face Cream Edition C6
+NARS,Skincare,Face Powder,Oily,Yes,1.8,65.36,NARS Face Powder Edition E1
+L'Oreal,Makeup,Body Lotion,Dry,Yes,3.6,23.67,L'Oreal Body Lotion Edition B6
+Dior,Skincare,Face Cream,Normal,No,2,25.12,Dior Face Cream Edition E1
+L'Oreal,Skincare,Sunscreen,Normal,No,4.5,8.94,L'Oreal Sunscreen SPF70 Edition B4
+Clinique,Skincare,Foundation,Dry,No,4.6,35.6,Clinique Foundation Edition B9
+Maybelline,Makeup,Body Lotion,Normal,Yes,2.2,58.18,Maybelline Body Lotion Edition B8
+Sephora,Makeup,Concealer,Normal,Yes,1.9,86.5,Sephora Concealer Edition D5
+Lancome,Makeup,Concealer,Oily,No,2.6,68.36,Lancome Concealer Edition D9
+Maybelline,Makeup,Foundation,Oily,Yes,2,46.36,Maybelline Foundation Edition E2
+Lancome,Skincare,Sunscreen,Dry,No,3.7,95.55,Lancome Sunscreen SPF30 Edition E8
+Dior,Makeup,Body Lotion,Dry,No,4.3,73.33,Dior Body Lotion Edition A3
+Revlon,Makeup,Face Powder,Normal,Yes,3.7,93.37,Revlon Face Powder Edition A3
+Estee Lauder,Skincare,Foundation,Oily,No,4.3,55.12,Estee Lauder Foundation Edition A7
+MAC,Skincare,Sunscreen,Dry,Yes,2.6,29.6,MAC Sunscreen SPF30 Edition E1
+Maybelline,Skincare,Face Powder,Dry,Yes,1.6,10.02,Maybelline Face Powder Edition E9
+Sephora,Makeup,Concealer,Dry,No,4,73.98,Sephora Concealer Edition D3
+L'Oreal,Makeup,Concealer,Dry,Yes,2.4,16.52,L'Oreal Concealer Edition A5
+Sephora,Makeup,Face Powder,Dry,No,3.7,33.76,Sephora Face Powder Edition A6
+Dior,Skincare,Foundation,Dry,Yes,2.1,55.58,Dior Foundation Edition A7
+Lancome,Skincare,Concealer,Normal,Yes,1.3,58.62,Lancome Concealer Edition D9
+L'Oreal,Makeup,Body Lotion,Oily,Yes,5,62.06,L'Oreal Body Lotion Edition C9
+MAC,Skincare,Face Cream,Oily,No,1.6,20.79,MAC Face Cream Edition B9
+MAC,Skincare,Face Powder,Dry,Yes,5,41.08,MAC Face Powder Edition D1
+Maybelline,Skincare,Face Powder,Oily,No,4.9,63.63,Maybelline Face Powder Edition A3
+Dior,Makeup,Concealer,Oily,Yes,4.2,97.13,Dior Concealer Edition D6
+Revlon,Skincare,Foundation,Oily,Yes,3.6,74.12,Revlon Foundation Edition E2
+Dior,Skincare,Body Lotion,Dry,No,3.3,92.65,Dior Body Lotion Edition A4
+Lancome,Makeup,Foundation,Dry,No,4.5,77.41,Lancome Foundation Edition D5
+Sephora,Makeup,Sunscreen,Oily,No,2.2,61.21,Sephora Sunscreen SPF100 Edition B4
+MAC,Skincare,Sunscreen,Oily,No,2.9,23.24,MAC Sunscreen SPF70 Edition D4
+Sephora,Skincare,Face Cream,Dry,No,3.5,68.34,Sephora Face Cream Edition C8
+Sephora,Makeup,Concealer,Normal,Yes,2.6,64.22,Sephora Concealer Edition B5
+Sephora,Makeup,Concealer,Oily,Yes,2.7,62.23,Sephora Concealer Edition E2
+MAC,Skincare,Concealer,Normal,No,2.3,51.53,MAC Concealer Edition B7
+NARS,Skincare,Face Cream,Oily,Yes,3.3,55.22,NARS Face Cream Edition B1
+Clinique,Skincare,Sunscreen,Normal,Yes,4.4,36.77,Clinique Sunscreen SPF70 Edition E1
+Lancome,Skincare,Foundation,Normal,Yes,1.8,54.33,Lancome Foundation Edition D4
+NARS,Makeup,Face Cream,Normal,No,4.7,23.77,NARS Face Cream Edition B7
+Lancome,Skincare,Face Cream,Dry,Yes,3.8,81.49,Lancome Face Cream Edition A2
+L'Oreal,Skincare,Foundation,Normal,Yes,4.3,22.65,L'Oreal Foundation Edition D1
+Dior,Makeup,Concealer,Normal,Yes,3.2,13.07,Dior Concealer Edition B7
+Dior,Skincare,Body Lotion,Normal,No,4.1,46.44,Dior Body Lotion Edition E6
+Estee Lauder,Makeup,Foundation,Oily,Yes,1.1,67.54,Estee Lauder Foundation Edition D1
+Dior,Skincare,Sunscreen,Normal,Yes,4.3,46.58,Dior Sunscreen SPF100 Edition E1
+MAC,Skincare,Face Powder,Oily,No,1.2,31.29,MAC Face Powder Edition A7
+Revlon,Makeup,Face Powder,Normal,No,4.6,58.03,Revlon Face Powder Edition E1
+Maybelline,Makeup,Face Cream,Normal,Yes,5,37.97,Maybelline Face Cream Edition A2
+Estee Lauder,Skincare,Face Powder,Dry,Yes,2.2,93.62,Estee Lauder Face Powder Edition E3
+Maybelline,Skincare,Body Lotion,Oily,No,1.8,92.65,Maybelline Body Lotion Edition E1
+Lancome,Skincare,Concealer,Normal,No,4.1,52.73,Lancome Concealer Edition A8
+Maybelline,Makeup,Sunscreen,Oily,No,2,36.15,Maybelline Sunscreen SPF100 Edition E2
+Maybelline,Skincare,Body Lotion,Oily,No,4.5,75.03,Maybelline Body Lotion Edition A4
+Estee Lauder,Makeup,Sunscreen,Dry,No,1.4,8.49,Estee Lauder Sunscreen SPF100 Edition A2
+L'Oreal,Makeup,Sunscreen,Dry,No,1.5,50.1,L'Oreal Sunscreen SPF70 Edition A4
+Sephora,Skincare,Concealer,Dry,No,4.9,36.95,Sephora Concealer Edition B9
+Dior,Makeup,Face Cream,Dry,Yes,3.7,92.45,Dior Face Cream Edition C9
+Dior,Skincare,Face Powder,Dry,No,4.4,6.14,Dior Face Powder Edition D2
+MAC,Skincare,Concealer,Dry,No,2.3,57.52,MAC Concealer Edition C6
+Estee Lauder,Skincare,Body Lotion,Dry,Yes,3.7,75.36,Estee Lauder Body Lotion Edition B2
+MAC,Skincare,Face Cream,Dry,No,3.4,51.08,MAC Face Cream Edition B1
+Revlon,Skincare,Body Lotion,Normal,No,3.4,13.11,Revlon Body Lotion Edition E8
+Revlon,Makeup,Face Cream,Oily,Yes,3.7,97.38,Revlon Face Cream Edition B5
+MAC,Makeup,Body Lotion,Dry,No,3.3,54.21,MAC Body Lotion Edition D8
+Estee Lauder,Skincare,Concealer,Dry,Yes,2.7,63.35,Estee Lauder Concealer Edition B5
+MAC,Skincare,Face Cream,Oily,Yes,2.1,27.48,MAC Face Cream Edition B3
+Dior,Makeup,Face Cream,Normal,Yes,4.1,50.93,Dior Face Cream Edition C5
+NARS,Makeup,Sunscreen,Oily,Yes,1.9,45.77,NARS Sunscreen SPF70 Edition C4
+Clinique,Makeup,Sunscreen,Oily,No,3.8,12.12,Clinique Sunscreen SPF15 Edition E2
+Maybelline,Makeup,Foundation,Dry,Yes,1.9,15.09,Maybelline Foundation Edition B2
+Clinique,Skincare,Body Lotion,Oily,Yes,3.5,84.56,Clinique Body Lotion Edition B9
+Estee Lauder,Skincare,Sunscreen,Oily,No,4,27.78,Estee Lauder Sunscreen SPF70 Edition C7
+Clinique,Makeup,Foundation,Dry,Yes,1.9,23.52,Clinique Foundation Edition E6
+Revlon,Skincare,Sunscreen,Dry,Yes,1.2,52.97,Revlon Sunscreen SPF15 Edition D7
+Lancome,Makeup,Body Lotion,Dry,Yes,1.5,78.03,Lancome Body Lotion Edition C3
+Maybelline,Skincare,Face Cream,Dry,Yes,3.4,10.88,Maybelline Face Cream Edition A6
+Sephora,Makeup,Face Powder,Oily,No,4.4,59.8,Sephora Face Powder Edition E9
+Estee Lauder,Skincare,Body Lotion,Oily,Yes,1.2,16.32,Estee Lauder Body Lotion Edition C7
+Maybelline,Makeup,Concealer,Normal,No,3.9,8.46,Maybelline Concealer Edition B8
+Clinique,Makeup,Sunscreen,Normal,No,2.4,10.01,Clinique Sunscreen SPF30 Edition A3
+Revlon,Skincare,Sunscreen,Oily,Yes,2.9,84.25,Revlon Sunscreen SPF70 Edition B9
+L'Oreal,Makeup,Face Cream,Normal,Yes,4.7,16.21,L'Oreal Face Cream Edition E9
+NARS,Skincare,Concealer,Oily,Yes,2.3,9.29,NARS Concealer Edition B2
+Sephora,Skincare,Face Cream,Normal,Yes,2.9,46.6,Sephora Face Cream Edition A3
+NARS,Makeup,Concealer,Dry,No,1.1,85.18,NARS Concealer Edition A5
+Maybelline,Skincare,Face Powder,Normal,No,1.3,29.93,Maybelline Face Powder Edition B8
+Revlon,Skincare,Sunscreen,Dry,No,2,45.06,Revlon Sunscreen SPF30 Edition C9
+Revlon,Skincare,Sunscreen,Dry,Yes,1.1,8.79,Revlon Sunscreen SPF15 Edition B5
+Clinique,Skincare,Face Powder,Dry,No,3.5,47.66,Clinique Face Powder Edition A9
+Dior,Skincare,Foundation,Dry,Yes,2.7,59.87,Dior Foundation Edition B7
+Clinique,Makeup,Face Cream,Normal,Yes,3.2,59.24,Clinique Face Cream Edition D3
+Dior,Skincare,Face Powder,Oily,Yes,1.7,36.58,Dior Face Powder Edition B6
+Dior,Skincare,Face Cream,Dry,Yes,2.2,34.98,Dior Face Cream Edition D1
+Sephora,Skincare,Body Lotion,Normal,Yes,3.7,15.13,Sephora Body Lotion Edition C2
+Clinique,Skincare,Sunscreen,Dry,No,4.9,39.85,Clinique Sunscreen SPF50 Edition C9
+L'Oreal,Skincare,Face Cream,Normal,No,1.2,14.45,L'Oreal Face Cream Edition E2
+MAC,Makeup,Concealer,Normal,Yes,4.6,77.83,MAC Concealer Edition D2
+MAC,Skincare,Face Cream,Normal,No,3.3,96.8,MAC Face Cream Edition A6
+Clinique,Makeup,Body Lotion,Oily,Yes,3.3,97.16,Clinique Body Lotion Edition B8
+Clinique,Makeup,Sunscreen,Normal,Yes,3,87.18,Clinique Sunscreen SPF15 Edition B2
+NARS,Makeup,Face Powder,Normal,Yes,1.3,62.08,NARS Face Powder Edition E3
+Sephora,Makeup,Body Lotion,Oily,No,1.4,71.58,Sephora Body Lotion Edition D8
+Clinique,Skincare,Sunscreen,Oily,Yes,3.4,32.09,Clinique Sunscreen SPF70 Edition C3
+NARS,Makeup,Face Cream,Normal,Yes,2.4,64.92,NARS Face Cream Edition A4
+Dior,Makeup,Foundation,Oily,No,4.7,48.29,Dior Foundation Edition A3
+Revlon,Skincare,Foundation,Dry,No,2.6,50.79,Revlon Foundation Edition A5
+Revlon,Skincare,Concealer,Dry,No,1.6,76.99,Revlon Concealer Edition D5
+Dior,Skincare,Sunscreen,Oily,Yes,3.9,31.78,Dior Sunscreen SPF50 Edition C4
+Estee Lauder,Makeup,Foundation,Oily,Yes,2.2,35.21,Estee Lauder Foundation Edition E4
+NARS,Skincare,Face Powder,Normal,No,3.1,92.84,NARS Face Powder Edition D8
+NARS,Skincare,Sunscreen,Oily,Yes,3.8,10.34,NARS Sunscreen SPF70 Edition D5
+Dior,Makeup,Face Powder,Normal,No,4.6,51.14,Dior Face Powder Edition D4
+L'Oreal,Skincare,Face Powder,Dry,No,4.2,91.72,L'Oreal Face Powder Edition C9
+Lancome,Skincare,Foundation,Oily,Yes,3.7,62.98,Lancome Foundation Edition D9
