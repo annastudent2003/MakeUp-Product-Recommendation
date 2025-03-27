@@ -4,8 +4,14 @@ import cors from "cors";
 import { exec } from "child_process";
 import path from "path";
 
-const port = 3000;
+const port = process.env.PORT || 3000;
 const app = express();
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+app.set("view engine", "ejs");
+app.set("views", path.join(__dirname, "views"));
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.json());
